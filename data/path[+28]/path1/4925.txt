@@ -1,0 +1,7 @@
+São Luís - Maranhão - 1.95352961914e-05 - 0
+Morros - Maranhão - 1.95352961914e-05 - 0
+Parnaíba - Piauí - 2.72585528253e-06 - 0
+Cruz - Ceará - 0.00010403680995 - 0
+Paracuru - Ceará - 0.00010403680995 - 0
+Fortaleza - Ceará - 0.00010403680995 - 0
+5.38354638414

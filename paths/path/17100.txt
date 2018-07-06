@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Piraí - Rio de Janeiro - 0.0048156776658 - 0
+Cosmorama - São Paulo - 0.00480840871838 - 0
+Jataí - Goiás - 0.000240329574076 - 0
+Vilhena - Rondônia - 1.81723685502e-06 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+21.6736265742

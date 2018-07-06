@@ -1,0 +1,6 @@
+Fortaleza - Ceará - 0.00010403680995 - 0 - 0.0461158385946
+Eliseu Martins - Piauí - 2.72585528253e-06 - 0 - 0.480236069174
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0590172934395
+Cordeirópolis - Cordeirópolis - 0 - 0 - 0.168542410102
+Araquari - Santa Catarina - 9.35876980334e-05 - 0 - 0.246088388691
+20.8127683254

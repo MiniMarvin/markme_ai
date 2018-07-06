@@ -1,0 +1,6 @@
+João Pessoa - Paraíba - 0 - 0
+Campina Grande - Paraíba - 0 - 0
+Boa Vista - Paraíba - 0 - 0
+Sertânia - Pernambuco - 9.13161519646e-05 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+6.65502602737

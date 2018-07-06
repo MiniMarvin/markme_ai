@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.000415370208138
+Duque de Caxias - Duque de Caxias - 0 - 0 - 0.00233362535118
+Além Paraíba - Minas Gerais - 0.000267133817688 - 0 - 0.0347778146996
+Itaobim - Minas Gerais - 0.000267133817688 - 0 - 0.0585596471619
+Ipaumirim - Ceará - 0.00010403680995 - 0 - 0.0797435277769
+Fortaleza - Ceará - 0.00010403680995 - 0 - 0.0373002446908
+14.7715184257

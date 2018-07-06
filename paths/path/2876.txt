@@ -1,0 +1,7 @@
+Palmas - Tocantins - 8.17756584758e-06 - 0
+Colinas do Tocantins - Tocantins - 8.17756584758e-06 - 0
+Marabá - Pará - 5.31541780093e-05 - 0
+Itaituba - Pará - 5.31541780093e-05 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+27.0586705064

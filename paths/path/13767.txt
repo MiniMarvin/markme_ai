@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+Contagem - Minas Gerais - 0.000267133817688 - 0
+Porteirinha - Minas Gerais - 0.000267133817688 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Maceió - Alagoas - 3.49818094591e-05 - 0
+16.4116550493

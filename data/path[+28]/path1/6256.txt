@@ -1,0 +1,6 @@
+Curitiba - Paraná - 0.0 - 0 - 0.0118811881188
+Curitiba - Paraná - 0.0 - 0 - 0.0101131541726
+Garuva - Santa Catarina - 9.35876980334e-05 - 0 - 0.0210042432815
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0172560113154
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00792079207921
+1.69609490389

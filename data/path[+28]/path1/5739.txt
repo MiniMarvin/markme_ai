@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+Betim - Minas Gerais - 0.000267133817688 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+Nova Itarana - Bahia - 0.000146741876043 - 0
+Salvador - Bahia - 0.000146741876043 - 0
+11.482534902

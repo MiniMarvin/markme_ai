@@ -1,0 +1,6 @@
+São Paulo - São Paulo - 0.00480840871838 - 0
+Cordeirópolis - Cordeirópolis - 0 - 0
+Jaciara - Mato Grosso - 4.45223029479e-05 - 0
+Várzea Grande - Mato Grosso - 4.45223029479e-05 - 0
+Humaitá - Amazonas - 9.08618427509e-07 - 0
+27.2574920012

@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Duque de Caxias - Duque de Caxias - 0 - 0
+Paracatu - Minas Gerais - 0.000267133817688 - 0
+Monte Alegre de Goiás - Goiás - 0.000240329574076 - 0
+Porto Nacional - Tocantins - 8.17756584758e-06 - 0
+Palmas - Tocantins - 8.17756584758e-06 - 0
+9.13500499518

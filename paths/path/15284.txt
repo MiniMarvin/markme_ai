@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0
+Alvorada do Sul - Paraná - 0.0 - 0
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0
+? - ? - 0 - 0
+Humaitá - Amazonas - 9.08618427509e-07 - 0
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+30.3486727272

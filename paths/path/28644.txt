@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.004831978915
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.00922468701955
+Mariana - Minas Gerais - 0.000267133817688 - 0 - 0.754447616956
+Manhuaçu - Minas Gerais - 0.000267133817688 - 0 - 0.216340874149
+Cariacica - Espírito Santo - 3.22559541766e-05 - 0 - 0.00702833296727
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.00812650999341
+3.52231370993

@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0
+Araxá - Minas Gerais - 0.000267133817688 - 0
+Rio Verde - Goiás - 0.000240329574076 - 0
+Vilhena - Rondônia - 1.81723685502e-06 - 0
+Careiro da Várzea - Amazonas - 9.08618427509e-07 - 0
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+23.9900905792

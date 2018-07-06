@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Teresópolis - Rio de Janeiro - 0.0048156776658 - 0
+Teófilo Otoni - Minas Gerais - 0.000267133817688 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+12.1867214252

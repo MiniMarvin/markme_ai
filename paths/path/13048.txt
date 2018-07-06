@@ -1,0 +1,6 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0
+Barra do Garças - Mato Grosso - 4.45223029479e-05 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Brejões - Bahia - 0.000146741876043 - 0
+25.9445048424

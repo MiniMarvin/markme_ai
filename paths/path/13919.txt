@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Porteirinha - Minas Gerais - 0.000267133817688 - 0
+Betim - Minas Gerais - 0.000267133817688 - 0
+Osasco - São Paulo - 0.00480840871838 - 0
+Curitiba - Paraná - 0.0 - 0
+16.3895034174

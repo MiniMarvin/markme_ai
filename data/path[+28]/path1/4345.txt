@@ -1,0 +1,6 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Duque de Caxias - Duque de Caxias - 0 - 0
+Leopoldina - Minas Gerais - 0.000267133817688 - 0
+Jequié - Bahia - 0.000146741876043 - 0
+Junqueiro - Alagoas - 3.49818094591e-05 - 0
+13.9138738117

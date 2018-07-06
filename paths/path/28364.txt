@@ -1,0 +1,6 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0
+Tibagi - Paraná - 0.0 - 0
+Regente Feijó - São Paulo - 0.00480840871838 - 0
+Vilhena - Rondônia - 1.81723685502e-06 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+30.1561344962

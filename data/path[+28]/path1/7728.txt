@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00460374876685
+Torres - Rio Grande do Sul - 0.000519729740535 - 0 - 0.424202564946
+Embu das Artes - São Paulo - 0.00480840871838 - 0 - 0.464320947057
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0884577441631
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00756330154554
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0108516935219
+7.80498703047

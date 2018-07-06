@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.000325457267461
+Campo Largo - Paraná - 0.0 - 0 - 0.0158606175009
+Bela Vista do Paraíso - Paraná - 0.0 - 0 - 0.019310464536
+Taciba - São Paulo - 0.00480840871838 - 0 - 0.0121937989542
+Nova Alvorada do Sul - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.11388834646
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.000954674651218
+5.15329571631

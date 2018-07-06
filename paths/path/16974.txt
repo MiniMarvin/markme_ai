@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+São José dos Pinhais - Paraná - 0.0 - 0
+Uberlândia - Minas Gerais - 0.000267133817688 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+São Francisco de Goiás - Goiás - 0.000240329574076 - 0
+Belém - Pará - 5.31541780093e-05 - 0
+22.1202666263

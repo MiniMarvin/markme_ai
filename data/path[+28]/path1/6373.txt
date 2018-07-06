@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00105576350897
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.000767828006527
+Juiz de Fora - Minas Gerais - 0.000267133817688 - 0 - 0.0869757174393
+Curvelo - Minas Gerais - 0.000267133817688 - 0 - 0.0906996832709
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.000614262405221
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.000883002207506
+5.81949114425

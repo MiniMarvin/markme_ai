@@ -1,0 +1,7 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0
+Rondonópolis - Mato Grosso - 4.45223029479e-05 - 0
+Regente Feijó - São Paulo - 0.00480840871838 - 0
+Londrina - Paraná - 0.0 - 0
+Garuva - Santa Catarina - 9.35876980334e-05 - 0
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0
+9.91765109084

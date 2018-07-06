@@ -1,0 +1,7 @@
+Goiânia - Goiás - 0.000240329574076 - 0
+Israelândia - Goiás - 0.000240329574076 - 0
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0
+Vilhena - Rondônia - 1.81723685502e-06 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+20.1382423955

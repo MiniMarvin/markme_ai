@@ -1,0 +1,6 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0482610887097
+Andradina - São Paulo - 0.00480840871838 - 0 - 0.145035282258
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.00504032258065
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.116809475806
+Itapemirim - Espírito Santo - 3.22559541766e-05 - 0 - 0.684853830645
+9.25524039344

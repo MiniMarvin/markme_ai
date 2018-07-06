@@ -1,0 +1,7 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+Planaltino - Bahia - 0.000146741876043 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+São José dos Pinhais - Paraná - 0.0 - 0
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+15.6643063587

@@ -1,0 +1,7 @@
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0115121344119
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.017112632234
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0099564405725
+São João de Meriti - São João de Meriti - 0 - 0 - 0.947417548227
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00373366521469
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0102675793404
+2.20065074184

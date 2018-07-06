@@ -1,0 +1,7 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.000496764969588
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.00835413284222
+Monte Alegre de Minas - Minas Gerais - 0.000267133817688 - 0 - 0.0104199481426
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.000375602781884
+Alvorada - Tocantins - 8.17756584758e-06 - 0 - 0.00041800954758
+Belém - Pará - 5.31541780093e-05 - 0 - 0.000678508251145
+20.5358380398

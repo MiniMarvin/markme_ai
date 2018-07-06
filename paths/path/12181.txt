@@ -1,0 +1,7 @@
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+Porto Velho - Rondônia - 1.81723685502e-06 - 0
+Santo Antônio do Leverger - Mato Grosso - 4.45223029479e-05 - 0
+Uberlândia - Minas Gerais - 0.000267133817688 - 0
+Ponte Nova - Minas Gerais - 0.000267133817688 - 0
+Vitória - Espírito Santo - 3.22559541766e-05 - 0
+28.8978449738

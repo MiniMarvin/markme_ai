@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0
+Ventania - Paraná - 0.0 - 0
+Araporã - Minas Gerais - 0.000267133817688 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Alvorada - Tocantins - 8.17756584758e-06 - 0
+Belém - Pará - 5.31541780093e-05 - 0
+18.9659163042

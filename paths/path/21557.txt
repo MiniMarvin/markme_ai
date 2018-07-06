@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.00037212763978
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.00734952088566
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.960926597823
+Lauro de Freitas - Lauro de Freitas - 0 - 0 - 0.0255837752349
+Salvador - Bahia - 0.000146741876043 - 0 - 0.000930319099451
+Salvador - Bahia - 0.000146741876043 - 0 - 0.00483765931715
+3.55676355336

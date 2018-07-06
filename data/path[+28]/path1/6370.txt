@@ -1,0 +1,7 @@
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.000384746548211
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 1.74884794642e-05
+Tanhaçu - Bahia - 0.000146741876043 - 0 - 0.000795725815619
+Delmiro Gouveia - Alagoas - 3.49818094591e-05 - 0 - 0.0774214985878
+Bayeux - Paraíba - 0 - 0 - 0.00328783413926
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.000655817979906
+13.5172770232

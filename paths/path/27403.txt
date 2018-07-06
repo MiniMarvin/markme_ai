@@ -1,0 +1,7 @@
+São Luís - Maranhão - 1.95352961914e-05 - 0 - 0.00626243277094
+Jerumenha - Piauí - 2.72585528253e-06 - 0 - 0.302291313637
+São Desidério - Bahia - 0.000146741876043 - 0 - 0.0899580048626
+Unaí - Minas Gerais - 0.000267133817688 - 0 - 0.0955573565166
+Duque de Caxias - Duque de Caxias - 0 - 0 - 0.503499594784
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00243129742872
+17.6488211881

@@ -1,0 +1,7 @@
+Fortaleza - Ceará - 0.00010403680995 - 0 - 0.0936454849498
+Canto do Buriti - Piauí - 2.72585528253e-06 - 0 - 0.0702341137124
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.150501672241
+Itaguari - Goiás - 0.000240329574076 - 0 - 0.600891861761
+Chapada dos Guimarães - Mato Grosso - 4.45223029479e-05 - 0 - 0.00390189520624
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0808249721293
+15.4346009297

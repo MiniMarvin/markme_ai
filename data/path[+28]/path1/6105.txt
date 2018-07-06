@@ -1,0 +1,7 @@
+Salvador - Bahia - 0.000146741876043 - 0 - 0.000154589020542
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.000263710682101
+Porteirinha - Minas Gerais - 0.000267133817688 - 0 - 0.0820231156053
+João Pinheiro - Minas Gerais - 0.000267133817688 - 0 - 0.0429302803517
+Campina Verde - Minas Gerais - 0.000267133817688 - 0 - 0.0029371913903
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.000236430266712
+13.3156045938

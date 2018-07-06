@@ -1,0 +1,7 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Barra Mansa - Rio de Janeiro - 0.0048156776658 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+? - ? - 0 - 0
+5.67468166602

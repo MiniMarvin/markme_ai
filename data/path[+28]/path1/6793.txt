@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0210727969349
+São João de Meriti - São João de Meriti - 0 - 0 - 0.275095785441
+Jacareí - São Paulo - 0.00480840871838 - 0 - 0.00229885057471
+Monte Alegre de Minas - Minas Gerais - 0.000267133817688 - 0 - 0.659003831418
+? - ? - 0 - 0 - 0.00766283524904
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.0348659003831
+6.33736553908

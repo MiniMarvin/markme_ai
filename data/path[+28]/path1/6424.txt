@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00249060363175
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00258117103654
+Duque de Caxias - Duque de Caxias - 0 - 0 - 0.00163021328624
+Juiz de Fora - Minas Gerais - 0.000267133817688 - 0 - 0.0272155051397
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.00742652719286
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.00321514287008
+2.42456581871

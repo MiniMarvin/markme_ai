@@ -1,0 +1,7 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.229571984436
+Rondonópolis - Mato Grosso - 4.45223029479e-05 - 0 - 0.0252918287938
+Taciba - São Paulo - 0.00480840871838 - 0 - 0.011673151751
+Mauá da Serra - Paraná - 0.0 - 0 - 0.0447470817121
+Garuva - Santa Catarina - 9.35876980334e-05 - 0 - 0.577821011673
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.110894941634
+9.7460836586

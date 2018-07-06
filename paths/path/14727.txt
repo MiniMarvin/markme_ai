@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Juiz de Fora - Minas Gerais - 0.000267133817688 - 0
+? - ? - 0 - 0
+? - ? - 0 - 0
+? - ? - 0 - 0
+Belém - Pará - 5.31541780093e-05 - 0
+19.2242434927

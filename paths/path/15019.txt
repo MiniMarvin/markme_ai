@@ -1,0 +1,6 @@
+João Pessoa - Paraíba - 0 - 0
+Recife - Pernambuco - 9.13161519646e-05 - 0
+Novo Lino - Alagoas - 3.49818094591e-05 - 0
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+3.71238755378

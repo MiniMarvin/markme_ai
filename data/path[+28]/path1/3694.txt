@@ -1,0 +1,6 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0
+Vilhena - Rondônia - 1.81723685502e-06 - 0
+Jaciara - Mato Grosso - 4.45223029479e-05 - 0
+Araporã - Minas Gerais - 0.000267133817688 - 0
+Araxá - Minas Gerais - 0.000267133817688 - 0
+15.1798599185

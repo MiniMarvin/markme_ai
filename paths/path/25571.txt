@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.000276443553682
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.000774041950309
+Monte Alegre de Minas - Minas Gerais - 0.000267133817688 - 0 - 0.0118870728083
+Alto Araguaia - Mato Grosso - 4.45223029479e-05 - 0 - 0.0677701371851
+Vilhena - Rondônia - 1.81723685502e-06 - 0 - 0.0620339334462
+Itapuã do Oeste - Rondônia - 1.81723685502e-06 - 0 - 0.0268703134179
+16.0420747625

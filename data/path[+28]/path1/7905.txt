@@ -1,0 +1,7 @@
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.00425972829841
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.00103615012664
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0173842965692
+Andradina - São Paulo - 0.00480840871838 - 0 - 0.08841814414
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.885908358278
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.00299332258807
+4.41390664195

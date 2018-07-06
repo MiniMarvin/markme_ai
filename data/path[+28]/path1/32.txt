@@ -1,0 +1,7 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+Planaltino - Bahia - 0.000146741876043 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+Betim - Minas Gerais - 0.000267133817688 - 0
+São Paulo - Brasil - 0 - 0
+Curitiba - Paraná - 0.0 - 0
+14.412791976

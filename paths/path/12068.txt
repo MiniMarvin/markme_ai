@@ -1,0 +1,7 @@
+Fortaleza - Ceará - 0.00010403680995 - 0
+Morada Nova - Ceará - 0.00010403680995 - 0
+Belém de São Francisco - Pernambuco - 9.13161519646e-05 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+João Neiva - Espírito Santo - 3.22559541766e-05 - 0
+Vitória - Espírito Santo - 3.22559541766e-05 - 0
+11.5340378148

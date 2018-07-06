@@ -1,0 +1,7 @@
+Salvador - Bahia - 0.000146741876043 - 0
+Simões Filho - Bahia - 0.000146741876043 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Senhor do Bonfim - Bahia - 0.000146741876043 - 0
+Petrolina - Pernambuco - 9.13161519646e-05 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+7.37821815504

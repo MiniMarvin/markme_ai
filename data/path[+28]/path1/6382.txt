@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0010775862069
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0118534482759
+Santa Rita - Paraíba - 0 - 0 - 0.00067349137931
+Bayeux - Paraíba - 0 - 0 - 0.00734105603448
+Igarassu - Pernambuco - 9.13161519646e-05 - 0 - 0.263200431034
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00228987068966
+1.81919076834

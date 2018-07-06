@@ -1,0 +1,6 @@
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Itaituba - Pará - 5.31541780093e-05 - 0
+Novo Repartimento - Pará - 5.31541780093e-05 - 0
+São Luís - Maranhão - 1.95352961914e-05 - 0
+24.4194890153

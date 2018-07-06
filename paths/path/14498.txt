@@ -1,0 +1,7 @@
+João Pessoa - Paraíba - 0 - 0
+Canapi - Alagoas - 3.49818094591e-05 - 0
+Santo Estêvão - Bahia - 0.000146741876043 - 0
+Guanambi - Bahia - 0.000146741876043 - 0
+Curvelo - Minas Gerais - 0.000267133817688 - 0
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0
+12.9879767029

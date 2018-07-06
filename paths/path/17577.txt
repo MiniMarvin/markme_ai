@@ -1,0 +1,6 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.000829531314807
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.00539195354625
+Caetité - Bahia - 0.000146741876043 - 0 - 0.939029448362
+Cocalzinho de Goiás - Goiás - 0.000240329574076 - 0 - 0.0385732061385
+Chapada dos Guimarães - Mato Grosso - 4.45223029479e-05 - 0 - 0.0161758606387
+14.1308305987

@@ -1,0 +1,7 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0868644067797
+São José dos Pinhais - Paraná - 0.0 - 0 - 0.382415254237
+Uberlândia - Minas Gerais - 0.000267133817688 - 0 - 0.0180084745763
+São Desidério - Bahia - 0.000146741876043 - 0 - 0.0116525423729
+Canto do Buriti - Piauí - 2.72585528253e-06 - 0 - 0.0995762711864
+Fortaleza - Ceará - 0.00010403680995 - 0 - 0.401483050847
+17.9888178962

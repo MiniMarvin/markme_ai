@@ -1,0 +1,7 @@
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+Manicoré - Amazonas - 9.08618427509e-07 - 0
+Várzea Grande - Mato Grosso - 4.45223029479e-05 - 0
+Taciba - São Paulo - 0.00480840871838 - 0
+Campo Largo - Paraná - 0.0 - 0
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0
+30.3514746368

@@ -1,0 +1,7 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0423090713517
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0817497310864
+Rondonópolis - Mato Grosso - 4.45223029479e-05 - 0 - 0.150950161348
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.634636070276
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0792398709215
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0111150950161
+4.53985074264

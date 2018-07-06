@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.0816723383568
+Curitiba - Paraná - 0.0 - 0 - 0.0695187165775
+Garuva - Santa Catarina - 9.35876980334e-05 - 0 - 0.144385026738
+Três Forquilhas - Rio Grande do Sul - 0.000519729740535 - 0 - 0.596013612056
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.085075352455
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.0233349538162
+3.82421296848

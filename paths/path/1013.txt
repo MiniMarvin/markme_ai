@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0
+Uberlândia - Minas Gerais - 0.000267133817688 - 0
+Chapada dos Guimarães - Mato Grosso - 4.45223029479e-05 - 0
+Várzea Grande - Mato Grosso - 4.45223029479e-05 - 0
+Humaitá - Amazonas - 9.08618427509e-07 - 0
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+28.5903789504

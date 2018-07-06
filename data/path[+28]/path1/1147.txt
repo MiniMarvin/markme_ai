@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Humaitá - Amazonas - 9.08618427509e-07 - 0
+Vitória do Xingu - Pará - 5.31541780093e-05 - 0
+Xambioá - Tocantins - 8.17756584758e-06 - 0
+Miracema do Tocantins - Tocantins - 8.17756584758e-06 - 0
+Palmas - Tocantins - 8.17756584758e-06 - 0
+23.1248832799

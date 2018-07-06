@@ -1,0 +1,7 @@
+São Luís - Maranhão - 1.95352961914e-05 - 0
+Caxias - Maranhão - 1.95352961914e-05 - 0
+Geminiano - Piauí - 2.72585528253e-06 - 0
+Juazeiro - Bahia - 0.000146741876043 - 0
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+7.96822854119

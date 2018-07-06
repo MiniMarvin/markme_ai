@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0
+Satuba - Alagoas - 3.49818094591e-05 - 0
+Salgueiro - Pernambuco - 9.13161519646e-05 - 0
+São Bento do Tocantins - Tocantins - 8.17756584758e-06 - 0
+Itaituba - Pará - 5.31541780093e-05 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+31.3330485295

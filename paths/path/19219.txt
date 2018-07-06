@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.00325467860049
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.154597233523
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.174938974776
+São Miguel dos Campos - Alagoas - 3.49818094591e-05 - 0 - 0.631407648495
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.0252237591538
+Aracaju - Sergipe - 4.54309213754e-07 - 0 - 0.0105777054516
+1.8096426582

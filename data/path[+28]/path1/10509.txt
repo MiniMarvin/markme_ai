@@ -1,0 +1,7 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0180333446751
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0 - 0.224396053079
+Piraí - Rio de Janeiro - 0.0048156776658 - 0 - 0.0153113303845
+São Paulo - Brasil - 0 - 0 - 0.0221163661109
+Capivari de Baixo - Santa Catarina - 9.35876980334e-05 - 0 - 0.711296359306
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00884654644437
+11.5511309147

@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+Embu das Artes - São Paulo - 0.00480840871838 - 0
+Betim - Minas Gerais - 0.000267133817688 - 0
+Francisco Sá - Minas Gerais - 0.000267133817688 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Maceió - Alagoas - 3.49818094591e-05 - 0
+19.1413636708

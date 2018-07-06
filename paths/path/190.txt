@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+Tubarão - Santa Catarina - 9.35876980334e-05 - 0
+Osasco - São Paulo - 0.00480840871838 - 0
+São João de Meriti - São João de Meriti - 0 - 0
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0
+Vitória - Espírito Santo - 3.22559541766e-05 - 0
+10.2898012858

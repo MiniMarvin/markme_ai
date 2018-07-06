@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+São Caetano - Pernambuco - 9.13161519646e-05 - 0
+Brejões - Bahia - 0.000146741876043 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+Uberlândia - Minas Gerais - 0.000267133817688 - 0
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+16.0567787557

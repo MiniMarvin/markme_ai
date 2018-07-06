@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00340430799703
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0133077494429
+São José dos Campos - São Paulo - 0.00480840871838 - 0 - 0.452030205496
+Penápolis - São Paulo - 0.00480840871838 - 0 - 0.176652636791
+Água Clara - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.352871998019
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.00173310225303
+6.52030817959

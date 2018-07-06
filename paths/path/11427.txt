@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+Chapecó - Santa Catarina - 9.35876980334e-05 - 0
+Mundo Novo - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0
+Cáceres - Mato Grosso - 4.45223029479e-05 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+28.6378205542

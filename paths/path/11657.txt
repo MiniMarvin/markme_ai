@@ -1,0 +1,7 @@
+Belém - Pará - 5.31541780093e-05 - 0
+Araguaína - Tocantins - 8.17756584758e-06 - 0
+Cocalzinho de Goiás - Goiás - 0.000240329574076 - 0
+Sete Lagoas - Minas Gerais - 0.000267133817688 - 0
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+16.6183917176

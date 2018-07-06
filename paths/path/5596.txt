@@ -1,0 +1,7 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Aporé - Goiás - 0.000240329574076 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Alvorada - Tocantins - 8.17756584758e-06 - 0
+Peritoró - Maranhão - 1.95352961914e-05 - 0
+São Luís - Maranhão - 1.95352961914e-05 - 0
+15.9387018746

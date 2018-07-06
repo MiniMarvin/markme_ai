@@ -1,0 +1,6 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.00222506536129
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.00322634477388
+Guanambi - Bahia - 0.000146741876043 - 0 - 0.534182566613
+Santo Estêvão - Bahia - 0.000146741876043 - 0 - 0.284641486344
+São Miguel dos Campos - Alagoas - 3.49818094591e-05 - 0 - 0.175724536908
+9.62561191046

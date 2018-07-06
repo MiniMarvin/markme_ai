@@ -1,0 +1,6 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+Guanambi - Bahia - 0.000146741876043 - 0
+Santo Estêvão - Bahia - 0.000146741876043 - 0
+São Caetano - Pernambuco - 9.13161519646e-05 - 0
+12.72109408

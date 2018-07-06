@@ -1,0 +1,8 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0 - 0.0463400794401
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.0274257613013
+Messias - Alagoas - 3.49818094591e-05 - 0 - 0.623415925856
+Jaboatão dos Guararapes - Pernambuco - 9.13161519646e-05 - 0 - 0.288727066389
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00747115566484
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00520143748818
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00141857386041
+3.24532636457

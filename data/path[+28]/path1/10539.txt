@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.00947119179163
+São Lourenço da Serra - São Lourenço da Serra - 0 - 0 - 0.763051076784
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.00586311872815
+Piraí - Rio de Janeiro - 0.0048156776658 - 0 - 0.216991769083
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.000676513699402
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00394632991318
+4.4986949854

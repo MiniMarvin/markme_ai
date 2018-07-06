@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+São Caetano - Pernambuco - 9.13161519646e-05 - 0
+Santo Estêvão - Bahia - 0.000146741876043 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+Mairiporã - São Paulo - 0.00480840871838 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+16.9993986581

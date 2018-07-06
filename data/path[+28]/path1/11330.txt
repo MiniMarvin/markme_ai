@@ -1,0 +1,7 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.00144875045273
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0464807436919
+Dourados - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0148496921405
+Francisco Beltrão - Paraná - 0.0 - 0 - 0.171918387058
+Marques de Souza - Rio Grande do Sul - 0.000519729740535 - 0 - 0.75769648678
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00760593987686
+21.8415191599

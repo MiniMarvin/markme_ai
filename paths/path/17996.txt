@@ -1,0 +1,6 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00436681222707
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00426030461178
+Palhoça - Santa Catarina - 9.35876980334e-05 - 0 - 0.0256150814783
+Osório - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00442006603472
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.000319522845883
+2.34191769411

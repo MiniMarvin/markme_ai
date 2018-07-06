@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.000425170068027
+Pimenta Bueno - Rondônia - 1.81723685502e-06 - 0 - 0.912414965986
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0119047619048
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0 - 0.0102040816327
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.047619047619
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0174319727891
+20.2586506836

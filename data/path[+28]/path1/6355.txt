@@ -1,0 +1,7 @@
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.000502042399763
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00197393943543
+Pirassununga - São Paulo - 0.00480840871838 - 0 - 0.00999520777709
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.0895232879213
+Três Forquilhas - Rio Grande do Sul - 0.000519729740535 - 0 - 0.0139887268661
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 3.42301636202e-05
+9.6610441277

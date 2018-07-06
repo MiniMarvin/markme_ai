@@ -1,0 +1,7 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+Iramaia - Bahia - 0.000146741876043 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0
+Várzea Grande - Mato Grosso - 4.45223029479e-05 - 0
+Porto Velho - Rondônia - 1.81723685502e-06 - 0
+20.2343279183

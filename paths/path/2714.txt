@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+Osório - Rio Grande do Sul - 0.000519729740535 - 0
+São José dos Pinhais - Paraná - 0.0 - 0
+Osasco - São Paulo - 0.00480840871838 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+5.48684689127

@@ -1,0 +1,6 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00521342456826
+Campina Grande - Paraíba - 0 - 0 - 0.00782013685239
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.824046920821
+Teófilo Otoni - Minas Gerais - 0.000267133817688 - 0 - 0.0358422939068
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.127077223851
+15.8123866843

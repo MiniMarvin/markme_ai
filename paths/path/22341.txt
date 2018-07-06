@@ -1,0 +1,6 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Itaituba - Pará - 5.31541780093e-05 - 0
+Araguatins - Tocantins - 8.17756584758e-06 - 0
+Grajaú - Maranhão - 1.95352961914e-05 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+27.0099564404

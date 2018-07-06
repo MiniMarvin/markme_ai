@@ -1,0 +1,6 @@
+Palmas - Tocantins - 8.17756584758e-06 - 0
+Natividade - Tocantins - 8.17756584758e-06 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Pirassununga - São Paulo - 0.00480840871838 - 0
+Garuva - Santa Catarina - 9.35876980334e-05 - 0
+11.3354929468

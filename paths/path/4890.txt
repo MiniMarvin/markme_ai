@@ -1,0 +1,7 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+Jeremoabo - Bahia - 0.000146741876043 - 0
+Juazeiro - Bahia - 0.000146741876043 - 0
+Timon - Maranhão - 1.95352961914e-05 - 0
+São Luís - Maranhão - 1.95352961914e-05 - 0
+São Luís - Maranhão - 1.95352961914e-05 - 0
+8.67818826579

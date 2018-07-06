@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Pimenta Bueno - Rondônia - 1.81723685502e-06 - 0
+Jataí - Goiás - 0.000240329574076 - 0
+Nova Serrana - Minas Gerais - 0.000267133817688 - 0
+Rio Casca - Minas Gerais - 0.000267133817688 - 0
+Vitória - Espírito Santo - 3.22559541766e-05 - 0
+25.4803903401

@@ -1,0 +1,7 @@
+João Pessoa - Paraíba - 0 - 0 - 0.00369139904024
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.000830564784053
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.953211517165
+São Mateus - Espírito Santo - 3.22559541766e-05 - 0 - 0.0264857881137
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.00119970468808
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0145810262089
+11.4147064115

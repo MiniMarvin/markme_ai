@@ -1,0 +1,6 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 5.78787440313e-05
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 6.36666184344e-05
+Francisco Sá - Minas Gerais - 0.000267133817688 - 0 - 0.0215887715237
+Mairiporã - São Paulo - 0.00480840871838 - 0 - 0.000289393720156
+São José dos Pinhais - Paraná - 0.0 - 0 - 0.00737375198958
+18.1956054345

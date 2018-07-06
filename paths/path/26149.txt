@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.000744416873449
+Balsa Nova - Paraná - 0.0 - 0 - 0.0437717121588
+Bela Vista do Paraíso - Paraná - 0.0 - 0 - 0.0111662531017
+Regente Feijó - São Paulo - 0.00480840871838 - 0 - 0.02
+Rondonópolis - Mato Grosso - 4.45223029479e-05 - 0 - 0.92317617866
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.00114143920596
+10.1967224616

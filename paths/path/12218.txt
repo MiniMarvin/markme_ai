@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Pimenta Bueno - Rondônia - 1.81723685502e-06 - 0
+Santo Antônio do Leverger - Mato Grosso - 4.45223029479e-05 - 0
+Taciba - São Paulo - 0.00480840871838 - 0
+Curitiba - Paraná - 0.0 - 0
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0
+24.6792395586

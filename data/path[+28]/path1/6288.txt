@@ -1,0 +1,6 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.000895480010047
+Tijucas do Sul - Paraná - 0.0 - 0 - 0.0206397221828
+Londrina - Paraná - 0.0 - 0 - 0.0173308143408
+Taciba - São Paulo - 0.00480840871838 - 0 - 6.55229275644e-05
+Rondonópolis - Mato Grosso - 4.45223029479e-05 - 0 - 0.203142916426
+11.7205916458

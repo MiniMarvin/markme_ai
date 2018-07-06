@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.000114746573995
+São José dos Pinhais - Paraná - 0.0 - 0 - 0.000311454986558
+Cristalina - Goiás - 0.000240329574076 - 0 - 0.0971165825192
+Monte Alegre de Goiás - Goiás - 0.000240329574076 - 0 - 0.0277850632745
+Porto Nacional - Tocantins - 8.17756584758e-06 - 0 - 0.000950757327388
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.000106550390138
+13.5727995249

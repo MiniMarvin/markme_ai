@@ -1,0 +1,6 @@
+João Pessoa - Paraíba - 0 - 0 - 0.00280859429855
+Monteiro - Paraíba - 0 - 0 - 0.405069512709
+Riachão - Maranhão - 1.95352961914e-05 - 0 - 0.228900435332
+Araguaína - Tocantins - 8.17756584758e-06 - 0 - 0.358236202781
+Miracema do Tocantins - Tocantins - 8.17756584758e-06 - 0 - 0.00498525487993
+11.1490072446

@@ -1,0 +1,7 @@
+Salvador - Bahia - 0.000146741876043 - 0 - 0.00031789961852
+Salvador - Bahia - 0.000146741876043 - 0 - 0.00213179744184
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.0570162315805
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00547909342509
+Goianinha - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.000467499439001
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.001402498317
+5.86194042131

@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+Tijucas do Sul - Paraná - 0.0 - 0
+Uberaba - Minas Gerais - 0.000267133817688 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Riachão das Neves - Bahia - 0.000146741876043 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+20.9708166861

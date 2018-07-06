@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.014194464159
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.230660042583
+Uberaba - Minas Gerais - 0.000267133817688 - 0 - 0.0621007806955
+Itapagipe - Minas Gerais - 0.000267133817688 - 0 - 0.518097941803
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.1607523066
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.014194464159
+6.40744733984

@@ -1,0 +1,7 @@
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.000845048782362
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0030152877007
+João Pinheiro - Minas Gerais - 0.000267133817688 - 0 - 0.152089575171
+Juiz de Fora - Minas Gerais - 0.000267133817688 - 0 - 0.000230467849735
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.000172850887301
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00103710532381
+6.41969831741

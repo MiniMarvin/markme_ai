@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+João Pessoa - Paraíba - 0 - 0
+Rio Largo - Alagoas - 3.49818094591e-05 - 0
+Mata de São João - Bahia - 0.000146741876043 - 0
+Salvador - Bahia - 0.000146741876043 - 0
+Salvador - Bahia - 0.000146741876043 - 0
+5.76293278556

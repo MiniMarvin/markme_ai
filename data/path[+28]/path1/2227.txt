@@ -1,0 +1,7 @@
+João Pessoa - Paraíba - 0 - 0
+Custódia - Pernambuco - 9.13161519646e-05 - 0
+Tocantinópolis - Tocantins - 8.17756584758e-06 - 0
+Rurópolis - Pará - 5.31541780093e-05 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+32.3364196731

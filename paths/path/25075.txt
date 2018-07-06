@@ -1,0 +1,7 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0154577883472
+Dourados - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0943321442727
+Ampére - Paraná - 0.0 - 0 - 0.402695204122
+Cunha Porã - Santa Catarina - 9.35876980334e-05 - 0 - 0.223147047166
+Nova Santa Rita - Rio Grande do Sul - 0.000519729740535 - 0 - 0.26317875545
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00118906064209
+7.98514572655

@@ -1,0 +1,6 @@
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00313546640063
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00491698140098
+Caetité - Bahia - 0.000146741876043 - 0 - 0.40219482648
+Santo Estêvão - Bahia - 0.000146741876043 - 0 - 0.364640490273
+São Miguel dos Campos - Alagoas - 3.49818094591e-05 - 0 - 0.225112235445
+9.82090706886

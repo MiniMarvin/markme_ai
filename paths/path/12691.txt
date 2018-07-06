@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Itaituba - Pará - 5.31541780093e-05 - 0
+São Bento do Tocantins - Tocantins - 8.17756584758e-06 - 0
+Geminiano - Piauí - 2.72585528253e-06 - 0
+Russas - Ceará - 0.00010403680995 - 0
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+31.0514212201

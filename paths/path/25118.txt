@@ -1,0 +1,7 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0108782170337
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.182939771823
+Cristalina - Goiás - 0.000240329574076 - 0 - 0.100822499337
+Monte Alegre de Goiás - Goiás - 0.000240329574076 - 0 - 0.449721411515
+Porto Nacional - Tocantins - 8.17756584758e-06 - 0 - 0.248209074025
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.00742902626691
+11.8631267727

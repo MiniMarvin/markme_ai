@@ -1,0 +1,6 @@
+Curitiba - Paraná - 0.0 - 0
+Campinas - São Paulo - 0.00480840871838 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Barreiras - Bahia - 0.000146741876043 - 0
+Bertolínia - Piauí - 2.72585528253e-06 - 0
+13.9303718743

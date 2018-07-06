@@ -1,0 +1,8 @@
+João Pessoa - Paraíba - 0 - 0 - 0.00449539222297
+Santa Rita - Paraíba - 0 - 0 - 0.10182063385
+Goianinha - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00280962013936
+Parnamirim - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00449539222297
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.022701730726
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0351764441448
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00224769611149
+0.8945845515

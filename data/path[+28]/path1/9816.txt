@@ -1,0 +1,6 @@
+João Pessoa - Paraíba - 0 - 0 - 0.0458190148912
+Goianinha - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.028636884307
+Parnamirim - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00916380297824
+Mossoró - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.681557846506
+Fortaleza - Ceará - 0.00010403680995 - 0 - 0.234822451317
+3.30764442783

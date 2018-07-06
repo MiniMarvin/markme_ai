@@ -1,0 +1,7 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0809160305344
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0 - 0.118320610687
+São João de Meriti - São João de Meriti - 0 - 0 - 0.00916030534351
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.107633587786
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.569465648855
+Curitiba - Paraná - 0.0 - 0 - 0.114503816794
+6.53407997526

@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00452191071282
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0176765600592
+São José dos Campos - São Paulo - 0.00480840871838 - 0 - 0.600427526104
+Registro - São Paulo - 0.00480840871838 - 0 - 0.374167557346
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.000904382142564
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00230206363562
+6.19384732993

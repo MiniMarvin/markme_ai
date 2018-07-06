@@ -1,0 +1,7 @@
+São Paulo - São Paulo - 0.00480840871838 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+Uberlândia - Minas Gerais - 0.000267133817688 - 0
+São Desidério - Bahia - 0.000146741876043 - 0
+Colônia do Gurguéia - Piauí - 2.72585528253e-06 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+14.4160482008

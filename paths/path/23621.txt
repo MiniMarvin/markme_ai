@@ -1,0 +1,6 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Correntina - Bahia - 0.000146741876043 - 0
+Barra do Garças - Mato Grosso - 4.45223029479e-05 - 0
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0
+25.7474196605

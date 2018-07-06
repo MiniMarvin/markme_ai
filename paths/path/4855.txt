@@ -1,0 +1,6 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Paranaíba - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Frutal - Minas Gerais - 0.000267133817688 - 0
+Uberaba - Minas Gerais - 0.000267133817688 - 0
+Betim - Minas Gerais - 0.000267133817688 - 0
+6.87958119195

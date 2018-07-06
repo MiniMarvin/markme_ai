@@ -1,0 +1,6 @@
+Teresina - Piauí - 2.72585528253e-06 - 0
+Jerumenha - Piauí - 2.72585528253e-06 - 0
+São Desidério - Bahia - 0.000146741876043 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+10.8442336971

@@ -1,0 +1,7 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.029484029484
+Nova Lacerda - Mato Grosso - 4.45223029479e-05 - 0 - 0.0982800982801
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.117936117936
+Barra do Garças - Mato Grosso - 4.45223029479e-05 - 0 - 0.366093366093
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.275184275184
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.113022113022
+11.992763707

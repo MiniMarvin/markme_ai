@@ -1,0 +1,7 @@
+São Luís - Maranhão - 1.95352961914e-05 - 0 - 0.00656674907293
+Peritoró - Maranhão - 1.95352961914e-05 - 0 - 0.126545117429
+Paraíso do Tocantins - Tocantins - 8.17756584758e-06 - 0 - 0.863643386897
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00108158220025
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.000231767614339
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00193139678616
+12.1044769435

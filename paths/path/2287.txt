@@ -1,0 +1,7 @@
+Teresina - Piauí - 2.72585528253e-06 - 0
+Colônia do Gurguéia - Piauí - 2.72585528253e-06 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Leme - São Paulo - 0.00480840871838 - 0
+Garuva - Santa Catarina - 9.35876980334e-05 - 0
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0
+18.5424219907

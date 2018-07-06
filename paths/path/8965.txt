@@ -1,0 +1,7 @@
+Belém - Pará - 5.31541780093e-05 - 0
+Caxias - Maranhão - 1.95352961914e-05 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+Canapi - Alagoas - 3.49818094591e-05 - 0
+Marechal Deodoro - Alagoas - 3.49818094591e-05 - 0
+Maceió - Alagoas - 3.49818094591e-05 - 0
+11.4940780382

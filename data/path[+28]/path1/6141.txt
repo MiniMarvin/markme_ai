@@ -1,0 +1,6 @@
+Teresina - Piauí - 2.72585528253e-06 - 0 - 0.000143818313699
+Colônia do Gurguéia - Piauí - 2.72585528253e-06 - 0 - 0.00427077861984
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00268877716916
+Cordeirópolis - Cordeirópolis - 0 - 0 - 0.00767864735749
+Araquari - Santa Catarina - 9.35876980334e-05 - 0 - 0.0112115754984
+16.6284826004

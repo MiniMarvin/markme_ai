@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.000835372038904
+São Lourenço da Serra - São Lourenço da Serra - 0 - 0 - 0.807625753327
+Extrema - Minas Gerais - 0.000267133817688 - 0 - 0.175726475327
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.00942777015335
+Santo Estêvão - Bahia - 0.000146741876043 - 0 - 0.000656363744854
+Igarassu - Pernambuco - 9.13161519646e-05 - 0 - 0.00572826540963
+22.0601434108

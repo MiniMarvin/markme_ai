@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+Santa Rita - Paraíba - 0 - 0
+Igarassu - Pernambuco - 9.13161519646e-05 - 0
+São Miguel dos Campos - Alagoas - 3.49818094591e-05 - 0
+Linhares - Espírito Santo - 3.22559541766e-05 - 0
+Vitória - Espírito Santo - 3.22559541766e-05 - 0
+11.3457694065

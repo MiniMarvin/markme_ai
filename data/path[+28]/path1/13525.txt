@@ -1,0 +1,7 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0224473035861
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0635094442924
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.0717218724336
+Tijucas do Sul - Paraná - 0.0 - 0 - 0.517382972899
+Curitiba - Paraná - 0.0 - 0 - 0.203941965508
+Curitiba - Paraná - 0.0 - 0 - 0.120996441281
+1.598456445

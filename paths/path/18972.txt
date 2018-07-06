@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0173913043478
+São Caetano - Pernambuco - 9.13161519646e-05 - 0 - 0.0467391304348
+Nova Itarana - Bahia - 0.000146741876043 - 0 - 0.598913043478
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.284782608696
+Prata - Minas Gerais - 0.000267133817688 - 0 - 0.00869565217391
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0434782608696
+15.8668616691

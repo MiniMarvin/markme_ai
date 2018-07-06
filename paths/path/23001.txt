@@ -1,0 +1,7 @@
+Belém - Pará - 5.31541780093e-05 - 0
+Colinas do Tocantins - Tocantins - 8.17756584758e-06 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Camapuã - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+16.69749896

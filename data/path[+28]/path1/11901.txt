@@ -1,0 +1,6 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.061625337589
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.00638350110484
+Manhuaçu - Minas Gerais - 0.000267133817688 - 0 - 0.00122759636631
+Mariana - Minas Gerais - 0.000267133817688 - 0 - 0.897618463049
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.0331451018905
+4.15794138555

@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0
+Uberaba - Minas Gerais - 0.000267133817688 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Nerópolis - Goiás - 0.000240329574076 - 0
+Grajaú - Maranhão - 1.95352961914e-05 - 0
+São Luís - Maranhão - 1.95352961914e-05 - 0
+16.4115863049

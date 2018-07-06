@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.0191754554171
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.0536912751678
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.16874400767
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.147651006711
+Três Forquilhas - Rio Grande do Sul - 0.000519729740535 - 0 - 0.587727708533
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.0230105465005
+8.52184434307

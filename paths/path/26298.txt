@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0512820512821
+Parnamirim - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.355769230769
+Bayeux - Paraíba - 0 - 0 - 0.349358974359
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0288461538462
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.173076923077
+Aracaju - Sergipe - 4.54309213754e-07 - 0 - 0.0416666666667
+4.84147479852

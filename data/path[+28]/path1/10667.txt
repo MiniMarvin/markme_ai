@@ -1,0 +1,6 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0151711378353
+Embu das Artes - São Paulo - 0.00480840871838 - 0 - 0.261239592969
+Mairiporã - São Paulo - 0.00480840871838 - 0 - 0.102682701203
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.0185013876041
+Nova Itarana - Bahia - 0.000146741876043 - 0 - 0.602405180389
+12.7806554407

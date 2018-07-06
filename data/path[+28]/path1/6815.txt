@@ -1,0 +1,6 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00199277618632
+Santa Rita - Paraíba - 0 - 0 - 0.00124548511645
+Igarassu - Pernambuco - 9.13161519646e-05 - 0 - 0.48673558351
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.00323826130278
+Serra - Espírito Santo - 3.22559541766e-05 - 0 - 0.506787893885
+11.6342437991

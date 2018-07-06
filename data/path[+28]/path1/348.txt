@@ -1,0 +1,7 @@
+São Paulo - São Paulo - 0.00480840871838 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+Monte Alegre de Minas - Minas Gerais - 0.000267133817688 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+São Francisco de Goiás - Goiás - 0.000240329574076 - 0
+Belém - Pará - 5.31541780093e-05 - 0
+17.453049898

@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00338327694538
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.0596906718221
+Três Forquilhas - Rio Grande do Sul - 0.000519729740535 - 0 - 0.459400676655
+Tijucas do Sul - Paraná - 0.0 - 0 - 0.456742387627
+Curitiba - Paraná - 0.0 - 0 - 0.0144997583374
+Curitiba - Paraná - 0.0 - 0 - 0.00628322861286
+3.63647374449

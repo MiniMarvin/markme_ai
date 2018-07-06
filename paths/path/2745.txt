@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Barra Mansa - Rio de Janeiro - 0.0048156776658 - 0
+Botucatu - Botucatu - 0 - 0
+Três Lagoas - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+6.20528593582

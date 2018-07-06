@@ -1,0 +1,6 @@
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+Porto Velho - Rondônia - 1.81723685502e-06 - 0
+Rondonópolis - Mato Grosso - 4.45223029479e-05 - 0
+Guaíra - Paraná - 0.0 - 0
+Carazinho - Rio Grande do Sul - 0.000519729740535 - 0
+28.8277136768

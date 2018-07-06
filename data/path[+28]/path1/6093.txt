@@ -1,0 +1,7 @@
+Boa Vista - Roraima - 9.08618427509e-07 - 0 - 0.000203868402946
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.00227228324117
+Vilhena - Rondônia - 1.81723685502e-06 - 0 - 0.000339780671576
+Jaraguari - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 7.64506511047e-05
+Bela Vista do Paraíso - Paraná - 0.0 - 0 - 0.000208115661341
+Curitiba - Paraná - 0.0 - 0 - 0.000348275188366
+24.941666718

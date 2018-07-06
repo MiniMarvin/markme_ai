@@ -1,0 +1,7 @@
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0777385159011
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.13074204947
+Barra do Garças - Mato Grosso - 4.45223029479e-05 - 0 - 0.249116607774
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0759717314488
+Vilhena - Rondônia - 1.81723685502e-06 - 0 - 0.127208480565
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.339222614841
+21.9274274646

@@ -1,0 +1,7 @@
+Fortaleza - Ceará - 0.00010403680995 - 0
+Caucaia - Ceará - 0.00010403680995 - 0
+Itarema - Ceará - 0.00010403680995 - 0
+Granja - Ceará - 0.00010403680995 - 0
+São Bernardo - Maranhão - 1.95352961914e-05 - 0
+Belém - Pará - 5.31541780093e-05 - 0
+9.3170738832

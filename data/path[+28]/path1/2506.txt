@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+Ronda Alta - Rio Grande do Sul - 0.000519729740535 - 0
+Francisco Beltrão - Paraná - 0.0 - 0
+Dourados - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Vilhena - Rondônia - 1.81723685502e-06 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+25.2063753465

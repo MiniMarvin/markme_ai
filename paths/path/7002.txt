@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+Quixeré - Ceará - 0.00010403680995 - 0
+Mombaça - Ceará - 0.00010403680995 - 0
+Tocantinópolis - Tocantins - 8.17756584758e-06 - 0
+Rurópolis - Pará - 5.31541780093e-05 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+28.3186618521

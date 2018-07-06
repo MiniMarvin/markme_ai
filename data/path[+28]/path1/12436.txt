@@ -1,0 +1,7 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.00900977475563
+São Mateus - Espírito Santo - 3.22559541766e-05 - 0 - 0.658223544411
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.00263493412665
+Xexéu - Pernambuco - 9.13161519646e-05 - 0 - 0.302422439439
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0249043773906
+João Pessoa - Paraíba - 0 - 0 - 0.00280492987675
+12.2121306386

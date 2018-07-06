@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.0970537261698
+Embu das Artes - São Paulo - 0.00480840871838 - 0 - 0.053148469093
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0184864240324
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0213749277874
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0 - 0.699017908723
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.110918544194
+7.06463110708

@@ -1,0 +1,7 @@
+Fortaleza - Ceará - 0.00010403680995 - 0
+Barreiras - Bahia - 0.000146741876043 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Chapadão do Céu - Goiás - 0.000240329574076 - 0
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+15.9215025433

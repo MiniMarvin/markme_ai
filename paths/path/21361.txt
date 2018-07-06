@@ -1,0 +1,7 @@
+João Pessoa - Paraíba - 0 - 0
+Sertânia - Pernambuco - 9.13161519646e-05 - 0
+Estreito - Maranhão - 1.95352961914e-05 - 0
+Novo Repartimento - Pará - 5.31541780093e-05 - 0
+Itaituba - Pará - 5.31541780093e-05 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+30.9662859882

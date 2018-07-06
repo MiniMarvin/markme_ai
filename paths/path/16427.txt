@@ -1,0 +1,7 @@
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.0012466237274
+Natividade - Tocantins - 8.17756584758e-06 - 0 - 0.913151880324
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0272179513817
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.0413463536256
+Manhuaçu - Minas Gerais - 0.000267133817688 - 0 - 0.00353210056098
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0135050903802
+10.394234459

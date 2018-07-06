@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00100365617607
+São Lourenço da Serra - São Lourenço da Serra - 0 - 0 - 0.970320453079
+Aparecida de Goiânia - Goiás - 0.000240329574076 - 0 - 0.00229407125959
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.0106817693025
+Grajaú - Maranhão - 1.95352961914e-05 - 0 - 0.0106100795756
+São Luís - Maranhão - 1.95352961914e-05 - 0 - 0.00508997060721
+20.9847939585

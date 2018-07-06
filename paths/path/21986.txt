@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.000425124880434
+Conceição do Jacuípe - Bahia - 0.000146741876043 - 0 - 0.00425124880434
+Porteirinha - Minas Gerais - 0.000267133817688 - 0 - 0.958656605378
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.00361356148369
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.0327346157934
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.000318843660325
+20.216165243

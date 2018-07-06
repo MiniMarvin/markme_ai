@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.0713375796178
+Campinas - São Paulo - 0.00480840871838 - 0 - 0.109554140127
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0832271762208
+Campos Belos - Goiás - 0.000240329574076 - 0 - 0.660721868365
+Porto Nacional - Tocantins - 8.17756584758e-06 - 0 - 0.0492569002123
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.0259023354565
+10.3492996518

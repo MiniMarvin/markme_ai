@@ -1,0 +1,7 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+Nova Itarana - Bahia - 0.000146741876043 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+Patrocínio - Minas Gerais - 0.000267133817688 - 0
+Iturama - Minas Gerais - 0.000267133817688 - 0
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+14.9608986398

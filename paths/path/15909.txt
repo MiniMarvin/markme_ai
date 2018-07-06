@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00346565847511
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0135475740391
+São José dos Campos - São Paulo - 0.00480840871838 - 0 - 0.460176433522
+Registro - São Paulo - 0.00480840871838 - 0 - 0.286767485822
+Araranguá - Santa Catarina - 9.35876980334e-05 - 0 - 0.232073093888
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00396975425331
+8.67389738256

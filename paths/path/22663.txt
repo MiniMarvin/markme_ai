@@ -1,0 +1,7 @@
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0363937138131
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.327543424318
+Delta - Minas Gerais - 0.000267133817688 - 0 - 0.51364764268
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0901571546733
+Curitiba - Paraná - 0.0 - 0 - 0.0248138957816
+Curitiba - Paraná - 0.0 - 0 - 0.00744416873449
+6.7021066004

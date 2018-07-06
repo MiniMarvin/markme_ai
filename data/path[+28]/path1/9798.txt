@@ -1,0 +1,7 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.199479166667
+Três Lagoas - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0296875
+Guarantã - São Paulo - 0.00480840871838 - 0 - 0.646354166667
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0625
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0234375
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0385416666667
+5.34915590373

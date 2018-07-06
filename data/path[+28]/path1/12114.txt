@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.000724637681159
+Humaitá - Amazonas - 9.08618427509e-07 - 0 - 0.28768115942
+Altamira - Pará - 5.31541780093e-05 - 0 - 0.541304347826
+Luzinópolis - Tocantins - 8.17756584758e-06 - 0 - 0.0217391304348
+Fortaleza dos Nogueiras - Maranhão - 1.95352961914e-05 - 0 - 0.119565217391
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0289855072464
+26.8396068525

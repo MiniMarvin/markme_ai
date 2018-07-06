@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+São José dos Pinhais - Paraná - 0.0 - 0
+Uberaba - Minas Gerais - 0.000267133817688 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Colônia do Gurguéia - Piauí - 2.72585528253e-06 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+20.995980702

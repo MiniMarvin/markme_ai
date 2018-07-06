@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Nova Iguaçu - Rio de Janeiro - 0.0048156776658 - 0
+Cordeirópolis - Cordeirópolis - 0 - 0
+Cassilândia - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Cáceres - Mato Grosso - 4.45223029479e-05 - 0
+Porto Velho - Rondônia - 1.81723685502e-06 - 0
+18.1110238481

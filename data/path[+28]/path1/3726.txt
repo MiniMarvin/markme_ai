@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Juiz de Fora - Minas Gerais - 0.000267133817688 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Arraias - Tocantins - 8.17756584758e-06 - 0
+Palmas - Tocantins - 8.17756584758e-06 - 0
+Belém - Pará - 5.31541780093e-05 - 0
+18.5140737291

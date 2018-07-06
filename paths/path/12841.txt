@@ -1,0 +1,7 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Jataí - Goiás - 0.000240329574076 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Correntina - Bahia - 0.000146741876043 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Maceió - Alagoas - 3.49818094591e-05 - 0
+14.0147613696

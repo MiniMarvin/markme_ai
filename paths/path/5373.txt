@@ -1,0 +1,7 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Jataí - Goiás - 0.000240329574076 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Nova Itarana - Bahia - 0.000146741876043 - 0
+Salvador - Bahia - 0.000146741876043 - 0
+12.9640381532

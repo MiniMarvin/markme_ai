@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Bom Jesus da Lapa - Bahia - 0.000146741876043 - 0
+Cocalzinho de Goiás - Goiás - 0.000240329574076 - 0
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0
+15.5474076661

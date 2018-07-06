@@ -1,0 +1,8 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0088809946714
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.038188277087
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.286856127886
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0870337477798
+Paulista - Pernambuco - 9.13161519646e-05 - 0 - 0.464476021314
+Igarassu - Pernambuco - 9.13161519646e-05 - 0 - 0.0852575488455
+João Pessoa - Paraíba - 0 - 0 - 0.0293072824156
+0.692487432165

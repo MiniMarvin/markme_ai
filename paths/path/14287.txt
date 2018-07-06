@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0
+São Raimundo das Mangabeiras - Maranhão - 1.95352961914e-05 - 0
+Tocantinópolis - Tocantins - 8.17756584758e-06 - 0
+Vitória do Xingu - Pará - 5.31541780093e-05 - 0
+Itaituba - Pará - 5.31541780093e-05 - 0
+Porto Velho - Rondônia - 1.81723685502e-06 - 0
+25.7215273928

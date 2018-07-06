@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+São José dos Campos - São Paulo - 0.00480840871838 - 0
+Registro - São Paulo - 0.00480840871838 - 0
+São José - Santa Catarina - 9.35876980334e-05 - 0
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0
+6.05088726875

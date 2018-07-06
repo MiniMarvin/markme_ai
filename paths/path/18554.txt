@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.000201386691217
+Tabaí - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00386950142409
+Chapecó - Santa Catarina - 9.35876980334e-05 - 0 - 0.00486205011652
+Marechal Cândido Rondon - Paraná - 0.0 - 0 - 0.0425789004287
+Dourados - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.00113639632901
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.000575390546333
+7.90116569382

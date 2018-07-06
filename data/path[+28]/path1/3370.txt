@@ -1,0 +1,7 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+Brejões - Bahia - 0.000146741876043 - 0
+Santa Maria da Vitória - Bahia - 0.000146741876043 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+Goianápolis - Goiás - 0.000240329574076 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+8.69036488799

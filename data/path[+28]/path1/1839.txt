@@ -1,0 +1,7 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0
+Britânia - Goiás - 0.000240329574076 - 0
+Colinas do Tocantins - Tocantins - 8.17756584758e-06 - 0
+Peritoró - Maranhão - 1.95352961914e-05 - 0
+São Luís - Maranhão - 1.95352961914e-05 - 0
+16.4195453434

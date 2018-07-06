@@ -1,0 +1,7 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0
+Teixeira de Freitas - Bahia - 0.000146741876043 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Senhor do Bonfim - Bahia - 0.000146741876043 - 0
+Petrolina - Pernambuco - 9.13161519646e-05 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+13.3883576505

@@ -1,0 +1,6 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.000707201074946
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.00198016300985
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.00622336945952
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.00544544827708
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00431392655717
+6.35382273281

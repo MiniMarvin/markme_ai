@@ -1,0 +1,7 @@
+Belém - Pará - 5.31541780093e-05 - 0 - 0.00349019135877
+Araguaína - Tocantins - 8.17756584758e-06 - 0 - 0.0107112769286
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.118666506198
+Valparaíso de Goiás - Goiás - 0.000240329574076 - 0 - 0.0405584306174
+Duque de Caxias - Duque de Caxias - 0 - 0 - 0.822481646408
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00409194848959
+17.3471647975

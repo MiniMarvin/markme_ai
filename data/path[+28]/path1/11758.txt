@@ -1,0 +1,7 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.0012213740458
+Várzea Grande - Mato Grosso - 4.45223029479e-05 - 0 - 0.96631043257
+Araporã - Minas Gerais - 0.000267133817688 - 0 - 0.021272264631
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.00315521628499
+Manhuaçu - Minas Gerais - 0.000267133817688 - 0 - 0.00142493638677
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.00661577608142
+19.2148358922

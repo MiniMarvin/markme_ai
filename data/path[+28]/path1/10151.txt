@@ -1,0 +1,7 @@
+Boa Vista - Roraima - 9.08618427509e-07 - 0 - 0.0548571428571
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.313142857143
+Brasil Novo - Pará - 5.31541780093e-05 - 0 - 0.100571428571
+Aguiarnópolis - Tocantins - 8.17756584758e-06 - 0 - 0.235428571429
+Sertânia - Pernambuco - 9.13161519646e-05 - 0 - 0.04
+Bayeux - Paraíba - 0 - 0 - 0.256
+36.9271540022

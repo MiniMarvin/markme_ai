@@ -1,0 +1,6 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0
+Rondonópolis - Mato Grosso - 4.45223029479e-05 - 0
+Uberlândia - Minas Gerais - 0.000267133817688 - 0
+Itabirito - Minas Gerais - 0.000267133817688 - 0
+Viana - Espírito Santo - 3.22559541766e-05 - 0
+12.1925125153

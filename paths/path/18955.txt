@@ -1,0 +1,7 @@
+Salvador - Bahia - 0.000146741876043 - 0 - 0.00226274457607
+Simões Filho - Bahia - 0.000146741876043 - 0 - 0.00266205244243
+Vitória da Conquista - Bahia - 0.000146741876043 - 0 - 0.92093704246
+Sapucaia - Rio de Janeiro - 0.0048156776658 - 0 - 0.0476507387196
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0192998802076
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00718754159457
+9.55344123671

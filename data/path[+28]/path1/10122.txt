@@ -1,0 +1,7 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0619520748101
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0 - 0.77089421391
+Piraí - Rio de Janeiro - 0.0048156776658 - 0 - 0.052600818235
+São Paulo - Brasil - 0 - 0 - 0.0759789596727
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.0257159555815
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0128579777908
+9.01760958337

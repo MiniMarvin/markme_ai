@@ -1,0 +1,7 @@
+? - ? - 0 - 0
+Chapada dos Guimarães - Mato Grosso - 4.45223029479e-05 - 0
+Barra do Garças - Mato Grosso - 4.45223029479e-05 - 0
+? - ? - 0 - 0
+Araguaína - Tocantins - 8.17756584758e-06 - 0
+Belém - Pará - 5.31541780093e-05 - 0
+13.75596857

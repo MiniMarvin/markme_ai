@@ -1,0 +1,7 @@
+Belém - Pará - 5.31541780093e-05 - 0
+Goianésia do Pará - Pará - 5.31541780093e-05 - 0
+Altamira - Pará - 5.31541780093e-05 - 0
+Humaitá - Amazonas - 9.08618427509e-07 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+27.5864993859

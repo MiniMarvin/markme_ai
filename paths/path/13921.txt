@@ -1,0 +1,6 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+Taquaritinga do Norte - Pernambuco - 9.13161519646e-05 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Tanhaçu - Bahia - 0.000146741876043 - 0
+Brasília - Distrito Federal - 3.72533555279e-05 - 0
+12.3801623889

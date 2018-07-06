@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0632411067194
+Caruaru - Caruaru - 0 - 0 - 0.0118577075099
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.0197628458498
+Correntina - Bahia - 0.000146741876043 - 0 - 0.256916996047
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.300395256917
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.347826086957
+13.9360007956

@@ -1,0 +1,7 @@
+Goiânia - Goiás - 0.000240329574076 - 0
+Goianápolis - Goiás - 0.000240329574076 - 0
+Santa Maria da Vitória - Bahia - 0.000146741876043 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Igarassu - Pernambuco - 9.13161519646e-05 - 0
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+15.2295327091

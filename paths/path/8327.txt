@@ -1,0 +1,6 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+Santo Estêvão - Bahia - 0.000146741876043 - 0
+Brumado - Bahia - 0.000146741876043 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0
+8.80131388425

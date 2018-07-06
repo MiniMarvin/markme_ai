@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 7.01759310592e-05
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 4.21055586355e-05
+Caetité - Bahia - 0.000146741876043 - 0 - 0.0317756615836
+Várzea da Palma - Minas Gerais - 0.000267133817688 - 0 - 0.0403301075797
+Campina Verde - Minas Gerais - 0.000267133817688 - 0 - 0.0188562726756
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.000582460227791
+14.9986414503

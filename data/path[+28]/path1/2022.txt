@@ -1,0 +1,6 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0
+Anchieta - Espírito Santo - 3.22559541766e-05 - 0
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0
+Niterói - Rio de Janeiro - 0.0048156776658 - 0
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+3.01721679895

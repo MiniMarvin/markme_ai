@@ -1,0 +1,6 @@
+Curitiba - Paraná - 0.0 - 0 - 0.00670177118238
+São Lourenço da Serra - São Lourenço da Serra - 0 - 0 - 0.539931386628
+Uberaba - Minas Gerais - 0.000267133817688 - 0 - 0.452688686772
+Valparaíso de Goiás - Goiás - 0.000240329574076 - 0 - 0.000438806446466
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.000239348970799
+7.11185471312

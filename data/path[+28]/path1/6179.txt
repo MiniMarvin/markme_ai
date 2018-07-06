@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 5.0123554562e-06
+Itaituba - Pará - 5.31541780093e-05 - 0 - 0.272807470415
+Novo Repartimento - Pará - 5.31541780093e-05 - 0 - 0.0680226758961
+Sítio Novo do Tocantins - Tocantins - 8.17756584758e-06 - 0 - 0.00445598400056
+Presidente Dutra - Maranhão - 1.95352961914e-05 - 0 - 0.0514919276015
+Teresina - Piauí - 2.72585528253e-06 - 0 - 0.00110773055582
+20.2258693551

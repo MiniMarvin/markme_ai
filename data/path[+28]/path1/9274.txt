@@ -1,0 +1,7 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.00549849569457
+Umbaúba - Sergipe - 4.54309213754e-07 - 0 - 0.679738562092
+Ribeirão - Pernambuco - 9.13161519646e-05 - 0 - 0.115053428779
+João Pessoa - Paraíba - 0 - 0 - 0.181605975724
+Goianinha - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00186741363212
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0162361240793
+11.3619180763

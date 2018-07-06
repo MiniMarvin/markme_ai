@@ -1,0 +1,7 @@
+Goiânia - Goiás - 0.000240329574076 - 0
+Jaupaci - Goiás - 0.000240329574076 - 0
+Chapada dos Guimarães - Mato Grosso - 4.45223029479e-05 - 0
+Várzea Grande - Mato Grosso - 4.45223029479e-05 - 0
+Manicoré - Amazonas - 9.08618427509e-07 - 0
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+21.7132696604

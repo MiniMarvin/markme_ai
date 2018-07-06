@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+São José dos Pinhais - Paraná - 0.0 - 0
+Uberaba - Minas Gerais - 0.000267133817688 - 0
+São Desidério - Bahia - 0.000146741876043 - 0
+Canto do Buriti - Piauí - 2.72585528253e-06 - 0
+Fortaleza - Ceará - 0.00010403680995 - 0
+23.168017935

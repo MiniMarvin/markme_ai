@@ -1,0 +1,7 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Jataí - Goiás - 0.000240329574076 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Correntina - Bahia - 0.000146741876043 - 0
+Santo Estêvão - Bahia - 0.000146741876043 - 0
+Recife - Pernambuco - 9.13161519646e-05 - 0
+18.2524840671

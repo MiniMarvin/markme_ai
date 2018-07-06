@@ -1,0 +1,7 @@
+João Pessoa - Paraíba - 0 - 0 - 0.0107123727906
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.30664167113
+Guanambi - Bahia - 0.000146741876043 - 0 - 0.470808784146
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.0310658810927
+Embu das Artes - São Paulo - 0.00480840871838 - 0 - 0.165506159614
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0152651312266
+20.9235798278

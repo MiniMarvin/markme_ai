@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0
+São Miguel dos Campos - Alagoas - 3.49818094591e-05 - 0
+Planaltino - Bahia - 0.000146741876043 - 0
+Montes Claros - Minas Gerais - 0.000267133817688 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+14.8970676591

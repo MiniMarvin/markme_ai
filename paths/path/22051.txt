@@ -1,0 +1,6 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 4.46318984178e-05
+Marechal Deodoro - Alagoas - 3.49818094591e-05 - 0 - 0.000390529111156
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 6.69478476267e-05
+Luis Eduardo Magalhães - Bahia - 0.000146741876043 - 0 - 0.000345897212738
+Porto Nacional - Tocantins - 8.17756584758e-06 - 0 - 0.00111579746044
+10.5123135672

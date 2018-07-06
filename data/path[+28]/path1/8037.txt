@@ -1,0 +1,8 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.000687143544286
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00563457706315
+Vitória de Santo Antão - Pernambuco - 9.13161519646e-05 - 0 - 0.121005978149
+Salgueiro - Pernambuco - 9.13161519646e-05 - 0 - 0.747818319247
+Salgueiro - Pernambuco - 9.13161519646e-05 - 0 - 0.0397856112142
+Teresina - Piauí - 2.72585528253e-06 - 0 - 0.0549714835429
+Teresina - Piauí - 2.72585528253e-06 - 0 - 0.0300968872397
+6.28998450995

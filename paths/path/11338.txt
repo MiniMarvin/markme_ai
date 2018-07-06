@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+Garanhuns - Pernambuco - 9.13161519646e-05 - 0
+Planaltino - Bahia - 0.000146741876043 - 0
+Curvelo - Minas Gerais - 0.000267133817688 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+Curitiba - Paraná - 0.0 - 0
+19.2235689996

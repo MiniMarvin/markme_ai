@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0
+? - ? - 0 - 0
+Bela Vista do Paraíso - Paraná - 0.0 - 0
+? - ? - 0 - 0
+Nova Alvorada do Sul - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0
+5.56229315288

@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0
+Ortigueira - Paraná - 0.0 - 0
+Taciba - São Paulo - 0.00480840871838 - 0
+Jaraguari - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Vilhena - Rondônia - 1.81723685502e-06 - 0
+Porto Velho - Rondônia - 1.81723685502e-06 - 0
+16.2116649369

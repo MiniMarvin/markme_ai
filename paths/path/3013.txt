@@ -1,0 +1,7 @@
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Altamira - Pará - 5.31541780093e-05 - 0
+Sítio Novo do Tocantins - Tocantins - 8.17756584758e-06 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+Fortaleza - Ceará - 0.00010403680995 - 0
+31.6125139548

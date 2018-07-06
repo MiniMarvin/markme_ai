@@ -1,0 +1,7 @@
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+Uruará - Pará - 5.31541780093e-05 - 0
+São João do Araguaia - Pará - 5.31541780093e-05 - 0
+Miranorte - Tocantins - 8.17756584758e-06 - 0
+Palmas - Tocantins - 8.17756584758e-06 - 0
+27.8784094677

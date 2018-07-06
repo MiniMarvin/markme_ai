@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0
+Fortaleza dos Nogueiras - Maranhão - 1.95352961914e-05 - 0
+Luzinópolis - Tocantins - 8.17756584758e-06 - 0
+Altamira - Pará - 5.31541780093e-05 - 0
+Humaitá - Amazonas - 9.08618427509e-07 - 0
+Manaus - Amazonas - 9.08618427509e-07 - 0
+30.8149189059

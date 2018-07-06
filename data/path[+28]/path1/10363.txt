@@ -1,0 +1,6 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.000218674830527
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.564673081128
+Brumado - Bahia - 0.000146741876043 - 0 - 0.103269188716
+Várzea da Palma - Minas Gerais - 0.000267133817688 - 0 - 0.31418106276
+Campina Verde - Minas Gerais - 0.000267133817688 - 0 - 0.0176579925651
+15.5537038978

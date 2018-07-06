@@ -1,0 +1,7 @@
+São Paulo - São Paulo - 0.00480840871838 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+Paranaíba - Mato Grosso do Sul - 1.81723685502e-06 - 0
+Vilhena - Rondônia - 1.81723685502e-06 - 0
+Careiro da Várzea - Amazonas - 9.08618427509e-07 - 0
+Boa Vista - Roraima - 9.08618427509e-07 - 0
+27.7797122503

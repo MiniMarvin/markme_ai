@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.000339043389078
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.000847608472694
+Tanhaçu - Bahia - 0.000146741876043 - 0 - 0.000771323710152
+Delmiro Gouveia - Alagoas - 3.49818094591e-05 - 0 - 0.0750472541724
+Bayeux - Paraíba - 0 - 0 - 0.00318700785733
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.000635706354521
+13.1204255059

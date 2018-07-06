@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0
+Tubarão - Santa Catarina - 9.35876980334e-05 - 0
+São Paulo - São Paulo - 0.00480840871838 - 0
+Uberlândia - Minas Gerais - 0.000267133817688 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+11.0233563119

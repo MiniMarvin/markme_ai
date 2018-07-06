@@ -1,0 +1,6 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0
+Itabaiana - Sergipe - 4.54309213754e-07 - 0
+Salgueiro - Pernambuco - 9.13161519646e-05 - 0
+Jaguaretama - Ceará - 0.00010403680995 - 0
+Fortaleza - Ceará - 0.00010403680995 - 0
+5.66075743399

@@ -1,0 +1,7 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0693153000845
+São Paulo - Brasil - 0 - 0 - 0.459002535926
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.0194420963652
+Francisco Sá - Minas Gerais - 0.000267133817688 - 0 - 0.028740490279
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.328825021133
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.094674556213
+18.8789996257

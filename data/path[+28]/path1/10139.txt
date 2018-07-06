@@ -1,0 +1,7 @@
+João Pessoa - Paraíba - 0 - 0 - 0.00779119594858
+Garanhuns - Pernambuco - 9.13161519646e-05 - 0 - 0.749707830152
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.0985586287495
+Teófilo Otoni - Minas Gerais - 0.000267133817688 - 0 - 0.0619400077912
+Duque de Caxias - Duque de Caxias - 0 - 0 - 0.0753798208025
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00662251655629
+15.1073766007

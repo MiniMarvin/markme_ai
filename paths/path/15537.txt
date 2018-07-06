@@ -1,0 +1,6 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0172251800814
+Duque de Caxias - Duque de Caxias - 0 - 0 - 0.0623238333855
+Paracatu - Minas Gerais - 0.000267133817688 - 0 - 0.233009708738
+Formosa - Goiás - 0.000240329574076 - 0 - 0.473535859693
+Colônia do Gurguéia - Piauí - 2.72585528253e-06 - 0 - 0.213905418102
+14.782511042

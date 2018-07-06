@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0
+Petrópolis - Rio de Janeiro - 0.0048156776658 - 0
+Unaí - Minas Gerais - 0.000267133817688 - 0
+Barreiras - Bahia - 0.000146741876043 - 0
+Maranhão - Brasil - 0 - 0
+São Luís - Maranhão - 1.95352961914e-05 - 0
+17.4971797088

@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00655229926138
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00190612342149
+Nova Iguaçu - Rio de Janeiro - 0.0048156776658 - 0 - 0.107457707887
+São José dos Campos - São Paulo - 0.00480840871838 - 0 - 0.870026209197
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0102454133905
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.00381224684298
+2.34378871772

@@ -1,0 +1,7 @@
+Belém - Pará - 5.31541780093e-05 - 0
+Caxias - Maranhão - 1.95352961914e-05 - 0
+Picos - Piauí - 2.72585528253e-06 - 0
+Juazeiro - Bahia - 0.000146741876043 - 0
+Feira de Santana - Bahia - 0.000146741876043 - 0
+Salvador - Bahia - 0.000146741876043 - 0
+10.9675800081

@@ -1,0 +1,7 @@
+Belém - Pará - 5.31541780093e-05 - 0
+Colinas do Tocantins - Tocantins - 8.17756584758e-06 - 0
+Goiânia - Goiás - 0.000240329574076 - 0
+Pirajuba - Minas Gerais - 0.000267133817688 - 0
+Juquitiba - Juquitiba - 0 - 0
+Curitiba - Paraná - 0.0 - 0
+15.7516560897

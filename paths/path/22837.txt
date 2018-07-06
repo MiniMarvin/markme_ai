@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.000650418041414
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.000484857085418
+Guapimirim - Guapimirim - 0 - 0 - 0.0129255803503
+Teófilo Otoni - Minas Gerais - 0.000267133817688 - 0 - 0.000260167216566
+Santo Estêvão - Bahia - 0.000146741876043 - 0 - 0.0605125294166
+Salvador - Bahia - 0.000146741876043 - 0 - 0.000638592258843
+10.4209965836

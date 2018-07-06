@@ -1,0 +1,6 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00482296200447
+Garuva - Santa Catarina - 9.35876980334e-05 - 0 - 0.488530761087
+Mauá da Serra - Paraná - 0.0 - 0 - 0.187213269027
+Porecatu - Paraná - 0.0 - 0 - 0.0107046229855
+Nova Alvorada do Sul - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.308728384896
+6.77006669058

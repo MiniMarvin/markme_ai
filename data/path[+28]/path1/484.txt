@@ -1,0 +1,6 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0
+Campos Altos - Minas Gerais - 0.000267133817688 - 0
+Rio Verde - Goiás - 0.000240329574076 - 0
+Cáceres - Mato Grosso - 4.45223029479e-05 - 0
+Itapuã do Oeste - Rondônia - 1.81723685502e-06 - 0
+23.6702693482

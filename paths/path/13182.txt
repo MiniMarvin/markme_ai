@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0
+Mossoró - Rio Grande do Norte - 3.58904278866e-05 - 0
+Russas - Ceará - 0.00010403680995 - 0
+Senador Pompeu - Ceará - 0.00010403680995 - 0
+Castelo do Piauí - Piauí - 2.72585528253e-06 - 0
+Teresina - Piauí - 2.72585528253e-06 - 0
+6.84264954132

@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00102752293578
+Nonoai - Rio Grande do Sul - 0.000519729740535 - 0 - 0.0499816513761
+Marechal Cândido Rondon - Paraná - 0.0 - 0 - 0.217247706422
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.340036697248
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.388183486239
+Boa Vista - Roraima - 9.08618427509e-07 - 0 - 0.00352293577982
+32.8208236405
