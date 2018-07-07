@@ -134,6 +134,7 @@ for name in lst: # iterate in every entry of the folder
 				## there, normalized by the highest amount in the dataset
 				## 5 - the real amount of time necessary
 				## 6 - the partial time in the route
+				## 7 - the time of the entire set
 				## 
 				## Also in this dataset the data will be grouped in
 				## groups of five edges, those edges are the entire
@@ -153,11 +154,12 @@ for name in lst: # iterate in every entry of the folder
 				state_c = state[p[1]]
 
 				num = float(p[4].split("\n")[0])
-				time_p = num*float(path[-1][0])
+				tm = float(path[-1][0])
+				time_p = num*tm
 				time_t = time_p/max_time
 
 
-				dataset += [[state_p, city_p, state_c, city_c, time_t, time_p, num]]
+				dataset += [[state_p, city_p, state_c, city_c, time_t, time_p, num, tm]]
 				ct += 1
 
 
