@@ -1,0 +1,5 @@
+keras
+tensorflow==1.1
+pandas
+sklearn
+matplotlib
