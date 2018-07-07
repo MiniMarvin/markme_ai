@@ -1,0 +1,6 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0700245700246
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0552825552826
+Barra Mansa - Rio de Janeiro - 0.0048156776658 - 0 - 0.802211302211
+Osasco - São Paulo - 0.00480840871838 - 0 - 0.0589680589681
+Curitiba - Paraná - 0.0 - 0 - 0.0135135135135
+4.39525810754

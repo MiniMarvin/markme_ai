@@ -1,0 +1,7 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00298507462687
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0291044776119
+Santa Rita - Paraíba - 0 - 0 - 0.0128731343284
+Igarassu - Pernambuco - 9.13161519646e-05 - 0 - 0.72947761194
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.211753731343
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.0138059701493
+3.51111662447

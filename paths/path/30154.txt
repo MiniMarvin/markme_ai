@@ -1,0 +1,6 @@
+Teresina - Piauí - 2.72585528253e-06 - 0 - 0.0341997264022
+Salgueiro - Pernambuco - 9.13161519646e-05 - 0 - 0.812585499316
+Sertânia - Pernambuco - 9.13161519646e-05 - 0 - 0.0218878248974
+Campina Grande - Paraíba - 0 - 0 - 0.0287277701778
+Santa Rita - Paraíba - 0 - 0 - 0.102599179207
+6.80864138586

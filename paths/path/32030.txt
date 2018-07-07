@@ -1,0 +1,7 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0293381037567
+São José dos Pinhais - Paraná - 0.0 - 0 - 0.401788908766
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0429338103757
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0196779964222
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0 - 0.466547406082
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0397137745975
+8.58883886423

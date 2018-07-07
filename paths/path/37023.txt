@@ -1,0 +1,7 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.00755786490316
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0 - 0.0767595654228
+Britânia - Goiás - 0.000240329574076 - 0 - 0.409187529523
+Colinas do Tocantins - Tocantins - 8.17756584758e-06 - 0 - 0.470831365139
+Presidente Dutra - Maranhão - 1.95352961914e-05 - 0 - 0.0271610769957
+Teresina - Piauí - 2.72585528253e-06 - 0 - 0.00850259801606
+12.4040483994

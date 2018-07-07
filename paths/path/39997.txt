@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0253164556962
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.278481012658
+João Pessoa - Paraíba - 0 - 0 - 0.0759493670886
+Goianinha - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0632911392405
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.506329113924
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0506329113924
+1.65687966563

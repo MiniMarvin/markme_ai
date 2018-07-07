@@ -1,0 +1,7 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.00836112078833
+Altamira - Pará - 5.31541780093e-05 - 0 - 0.0886378340716
+Tocantinópolis - Tocantins - 8.17756584758e-06 - 0 - 0.0293634599114
+Salgueiro - Pernambuco - 9.13161519646e-05 - 0 - 0.873040362315
+Campina Grande - Paraíba - 0 - 0 - 0.000298611456726
+Bayeux - Paraíba - 0 - 0 - 0.000298611456726
+26.6533510212

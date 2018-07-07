@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.066889632107
+Contagem - Minas Gerais - 0.000267133817688 - 0 - 0.0802675585284
+Uberaba - Minas Gerais - 0.000267133817688 - 0 - 0.0702341137124
+Frutal - Minas Gerais - 0.000267133817688 - 0 - 0.622073578595
+Paranaíba - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.115384615385
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0451505016722
+6.9134996187

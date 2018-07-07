@@ -1,0 +1,6 @@
+João Pessoa - Paraíba - 0 - 0 - 0.08
+Garanhuns - Pernambuco - 9.13161519646e-05 - 0 - 0.066
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.01
+Caetité - Bahia - 0.000146741876043 - 0 - 0.75
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.094
+12.2456413267

@@ -1,0 +1,7 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0172646344753
+Barra do Garças - Mato Grosso - 4.45223029479e-05 - 0 - 0.00566495818721
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0121391961155
+Nova Itarana - Bahia - 0.000146741876043 - 0 - 0.882924197464
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0766118154842
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00539519827354
+19.1804844109

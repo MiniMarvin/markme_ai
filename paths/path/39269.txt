@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.00182066454256
+São Miguel dos Campos - Alagoas - 3.49818094591e-05 - 0 - 0.00773782430587
+Iramaia - Bahia - 0.000146741876043 - 0 - 0.865725989986
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.0983158852981
+Prata - Minas Gerais - 0.000267133817688 - 0 - 0.00864815657715
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0177514792899
+13.6426794832

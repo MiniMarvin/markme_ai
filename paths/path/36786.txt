@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.00370713623726
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.0444856348471
+São Miguel dos Campos - Alagoas - 3.49818094591e-05 - 0 - 0.712696941613
+Santo Antônio de Jesus - Bahia - 0.000146741876043 - 0 - 0.132530120482
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0880444856348
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0185356811863
+9.18027062803

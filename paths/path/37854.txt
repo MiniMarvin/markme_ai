@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00359971202304
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.182505399568
+Porteirinha - Minas Gerais - 0.000267133817688 - 0 - 0.0824334053276
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.00323974082073
+Juquitiba - Juquitiba - 0 - 0 - 0.707703383729
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0205183585313
+19.1081519824

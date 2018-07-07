@@ -1,0 +1,6 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.00273037542662
+Caruaru - Caruaru - 0 - 0 - 0.000511945392491
+Brejões - Bahia - 0.000146741876043 - 0 - 0.87662116041
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.0134812286689
+Uberlândia - Minas Gerais - 0.000267133817688 - 0 - 0.106655290102
+19.5146068132

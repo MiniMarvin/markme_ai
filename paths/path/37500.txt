@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00479616306954
+Torres - Rio Grande do Sul - 0.000519729740535 - 0 - 0.441589585474
+Embu das Artes - São Paulo - 0.00480840871838 - 0 - 0.483727303871
+Uberaba - Minas Gerais - 0.000267133817688 - 0 - 0.0154162384378
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0459061322371
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0085645769099
+9.85910835441

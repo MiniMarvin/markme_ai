@@ -1,0 +1,7 @@
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.0406478247063
+Manhuaçu - Minas Gerais - 0.000267133817688 - 0 - 0.163861543347
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.00317561130518
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0778024769768
+Silvanópolis - Tocantins - 8.17756584758e-06 - 0 - 0.702762781836
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.0117497618292
+12.2808103912

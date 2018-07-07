@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00986193293886
+Salgueiro - Pernambuco - 9.13161519646e-05 - 0 - 0.569033530572
+Carolina - Maranhão - 1.95352961914e-05 - 0 - 0.240631163708
+Araguaína - Tocantins - 8.17756584758e-06 - 0 - 0.0877712031558
+Miracema do Tocantins - Tocantins - 8.17756584758e-06 - 0 - 0.0364891518738
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.0562130177515
+12.6886564347

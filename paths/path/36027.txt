@@ -1,0 +1,7 @@
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.000771803447389
+Natividade - Tocantins - 8.17756584758e-06 - 0 - 0.57344996141
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0168510419347
+Jardinópolis - São Paulo - 0.00480840871838 - 0 - 0.401209158734
+São José dos Pinhais - Paraná - 0.0 - 0 - 0.00424491896064
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00347311551325
+10.9308851371

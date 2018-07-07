@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00620292423571
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.108994240142
+Três Forquilhas - Rio Grande do Sul - 0.000519729740535 - 0 - 0.841825431989
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.00930438635357
+? - ? - 0 - 0 - 0.00841825431989
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0252547629597
+2.17374948081

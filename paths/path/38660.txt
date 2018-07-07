@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.000638977635783
+Cacoal - Rondônia - 1.81723685502e-06 - 0 - 0.0741214057508
+Santo Antônio do Leverger - Mato Grosso - 4.45223029479e-05 - 0 - 0.235143769968
+Taciba - São Paulo - 0.00480840871838 - 0 - 0.0038338658147
+Curitiba - Paraná - 0.0 - 0 - 0.669009584665
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0172523961661
+27.8729728254

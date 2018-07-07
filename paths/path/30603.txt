@@ -1,0 +1,7 @@
+João Pessoa - Paraíba - 0 - 0 - 0.0370027752081
+Campina Grande - Paraíba - 0 - 0 - 0.302497687327
+Campina Grande - Paraíba - 0 - 0 - 0.0157261794635
+Sertânia - Pernambuco - 9.13161519646e-05 - 0 - 0.0481036077706
+Salgueiro - Pernambuco - 9.13161519646e-05 - 0 - 0.533765032377
+Teresina - Piauí - 2.72585528253e-06 - 0 - 0.0629047178538
+7.25282160391

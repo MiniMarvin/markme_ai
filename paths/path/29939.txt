@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0027986448667
+Paracambi - Rio de Janeiro - 0.0048156776658 - 0 - 0.0678548632592
+Matão - São Paulo - 0.00480840871838 - 0 - 0.266902342024
+Cassilândia - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.00549909166789
+Nova Lacerda - Mato Grosso - 4.45223029479e-05 - 0 - 0.644915795159
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.0120292630235
+17.6921987279

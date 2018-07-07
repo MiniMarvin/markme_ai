@@ -1,0 +1,7 @@
+São Luís - Maranhão - 1.95352961914e-05 - 0 - 0.0988095238095
+Colinas do Tocantins - Tocantins - 8.17756584758e-06 - 0 - 0.0642857142857
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.0380952380952
+Planura - Minas Gerais - 0.000267133817688 - 0 - 0.00714285714286
+São José dos Pinhais - Paraná - 0.0 - 0 - 0.728571428571
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.0630952380952
+22.0603932809

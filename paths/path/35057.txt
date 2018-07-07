@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.047342192691
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.264119601329
+Guapimirim - Guapimirim - 0 - 0 - 0.541528239203
+Teófilo Otoni - Minas Gerais - 0.000267133817688 - 0 - 0.078903654485
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.0249169435216
+Salvador - Bahia - 0.000146741876043 - 0 - 0.0431893687708
+10.4548545657

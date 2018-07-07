@@ -1,0 +1,7 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0057854917668
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0200761509173
+Jaciara - Mato Grosso - 4.45223029479e-05 - 0 - 0.127577510755
+Jaraguari - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.840181971023
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.00479651881521
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.00158235672254
+4.37943019382

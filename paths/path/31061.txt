@@ -1,0 +1,7 @@
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0197238658777
+Messias - Alagoas - 3.49818094591e-05 - 0 - 0.270216962525
+Conceição do Almeida - Bahia - 0.000146741876043 - 0 - 0.378698224852
+Linhares - Espírito Santo - 3.22559541766e-05 - 0 - 0.00986193293886
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.00986193293886
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.311637080868
+12.1957324497

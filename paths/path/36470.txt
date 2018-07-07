@@ -1,0 +1,7 @@
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0364891518738
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0108481262327
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.135108481262
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.736686390533
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.043392504931
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0374753451677
+3.80699430868

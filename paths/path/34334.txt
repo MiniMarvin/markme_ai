@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0352941176471
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0247678018576
+Niterói - Rio de Janeiro - 0.0048156776658 - 0 - 0.00371517027864
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0 - 0.807430340557
+Guarapari - Espírito Santo - 3.22559541766e-05 - 0 - 0.00804953560372
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.120743034056
+3.03169506942

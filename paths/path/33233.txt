@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.0445505171042
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0278440731901
+Contagem - Minas Gerais - 0.000267133817688 - 0 - 0.0153805356669
+Tanhaçu - Bahia - 0.000146741876043 - 0 - 0.0236011667993
+Jaboatão dos Guararapes - Pernambuco - 9.13161519646e-05 - 0 - 0.804295942721
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0843277645187
+18.9480254709

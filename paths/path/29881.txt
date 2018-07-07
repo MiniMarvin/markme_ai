@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.000129198966408
+Humaitá - Amazonas - 9.08618427509e-07 - 0 - 0.231266149871
+Vitória do Xingu - Pará - 5.31541780093e-05 - 0 - 0.338759689922
+Tocantinópolis - Tocantins - 8.17756584758e-06 - 0 - 0.0762273901809
+São Raimundo das Mangabeiras - Maranhão - 1.95352961914e-05 - 0 - 0.348449612403
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00516795865633
+26.144205238

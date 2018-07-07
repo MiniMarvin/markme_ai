@@ -1,0 +1,6 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00589588725913
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.00258843830889
+São Lourenço da Serra - São Lourenço da Serra - 0 - 0 - 0.972749496693
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.00754961173425
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0112165660052
+3.33118959017

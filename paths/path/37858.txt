@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.0378787878788
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.361742424242
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0795454545455
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.143939393939
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.291666666667
+Curitiba - Paraná - 0.0 - 0 - 0.0852272727273
+4.87082393607

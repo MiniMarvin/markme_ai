@@ -1,0 +1,7 @@
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.0103703703704
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.00851851851852
+Indiara - Goiás - 0.000240329574076 - 0 - 0.361111111111
+Chapadão do Sul - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.563333333333
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0351851851852
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0214814814815
+4.14433788931

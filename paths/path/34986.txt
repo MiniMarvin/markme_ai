@@ -1,0 +1,7 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.268852459016
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.0131147540984
+Embu das Artes - São Paulo - 0.00480840871838 - 0 - 0.304918032787
+Uberaba - Minas Gerais - 0.000267133817688 - 0 - 0.147540983607
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.104918032787
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.160655737705
+8.05789756177

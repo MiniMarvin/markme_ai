@@ -1,0 +1,7 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.00114014251781
+Várzea Grande - Mato Grosso - 4.45223029479e-05 - 0 - 0.906793349169
+Dourados - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.018242280285
+Realeza - Paraná - 0.0 - 0 - 0.000380047505938
+Santo Antônio do Planalto - Rio Grande do Sul - 0.000519729740535 - 0 - 0.0684085510689
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00503562945368
+21.234272496

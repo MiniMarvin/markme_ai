@@ -1,0 +1,7 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0422487984799
+Santo Antônio do Leverger - Mato Grosso - 4.45223029479e-05 - 0 - 0.76461383704
+Nova Lacerda - Mato Grosso - 4.45223029479e-05 - 0 - 0.00435900301777
+Pimenta Bueno - Rondônia - 1.81723685502e-06 - 0 - 0.0362132558399
+Humaitá - Amazonas - 9.08618427509e-07 - 0 - 0.151447412541
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.00111769308148
+19.2185487128

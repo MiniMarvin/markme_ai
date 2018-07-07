@@ -30,12 +30,12 @@ for name in lst: # iterate in every entry of the folder
 		# 4 - the partial time of the delivery (just is some of the data)
 		path = [point.split(" - ") for point in data]
 		for p in path[:len(path) - 2]:
-			if len(p) == 5:
-				if p[4] != 0:
-					print(name)
-					exit()
-			# if p[3] == "1":
-			# 	print("stolen at: ", name, p)
+			# if len(p) == 5:
+			# 	if p[4] != 0:
+			# 		print(name)
+			# 		exit()
+			if p[3] == "1":
+				print("stolen at: ", name, p)
 		# print("-------------------------------------------")
 		# print(path)
 

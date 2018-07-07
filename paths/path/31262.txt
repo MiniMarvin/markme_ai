@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.0995260663507
+Curitiba - Paraná - 0.0 - 0 - 0.0053317535545
+Osasco - São Paulo - 0.00480840871838 - 0 - 0.010663507109
+Taubaté - São Paulo - 0.00480840871838 - 0 - 0.83827014218
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0053317535545
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0408767772512
+4.92015985241

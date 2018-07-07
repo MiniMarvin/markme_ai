@@ -1,0 +1,6 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0031891680188
+Duque de Caxias - Duque de Caxias - 0 - 0 - 0.0171767470486
+Teresópolis - Rio de Janeiro - 0.0048156776658 - 0 - 0.00139875790298
+Itaobim - Minas Gerais - 0.000267133817688 - 0 - 0.434845856879
+Umbaúba - Sergipe - 4.54309213754e-07 - 0 - 0.543389470151
+10.2000264175

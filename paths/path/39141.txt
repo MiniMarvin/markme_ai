@@ -1,0 +1,6 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0217613056783
+Barra do Garças - Mato Grosso - 4.45223029479e-05 - 0 - 0.039442366542
+Cocalzinho de Goiás - Goiás - 0.000240329574076 - 0 - 0.390003400204
+Correntina - Bahia - 0.000146741876043 - 0 - 0.538592315539
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.0102006120367
+15.4595900577

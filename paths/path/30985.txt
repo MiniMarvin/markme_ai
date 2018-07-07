@@ -1,0 +1,6 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.000933395559704
+Garuva - Santa Catarina - 9.35876980334e-05 - 0 - 0.90906060404
+Osasco - São Paulo - 0.00480840871838 - 0 - 0.00533368891259
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00366691112741
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0 - 0.08100540036
+12.0150288624

@@ -1,0 +1,6 @@
+João Pessoa - Paraíba - 0 - 0 - 0.002915026964
+Garanhuns - Pernambuco - 9.13161519646e-05 - 0 - 0.282101734441
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.0010202594374
+Manhuaçu - Minas Gerais - 0.000267133817688 - 0 - 0.709298936015
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0046640431424
+15.9711339858

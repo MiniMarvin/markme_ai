@@ -1,0 +1,7 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.0214285714286
+Vilhena - Rondônia - 1.81723685502e-06 - 0 - 0.132142857143
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.239285714286
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0 - 0.175
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.344642857143
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0875
+15.498797673

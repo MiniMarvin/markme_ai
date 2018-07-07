@@ -1,0 +1,7 @@
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0888888888889
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0638888888889
+Várzea Grande - Mato Grosso - 4.45223029479e-05 - 0 - 0.0152777777778
+Vilhena - Rondônia - 1.81723685502e-06 - 0 - 0.0416666666667
+Pimenta Bueno - Rondônia - 1.81723685502e-06 - 0 - 0.45
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.340277777778
+8.37762620527

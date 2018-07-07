@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.025412394115
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.141774409273
+Resende - Rio de Janeiro - 0.0048156776658 - 0 - 0.505572893446
+Botucatu - Botucatu - 0 - 0 - 0.0160499331253
+Três Lagoas - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.299152920196
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.012037449844
+6.87137945043

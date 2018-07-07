@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00396991224405
+São João de Meriti - São João de Meriti - 0 - 0 - 0.0498676695919
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.249965176208
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.546872823513
+Torres - Rio Grande do Sul - 0.000519729740535 - 0 - 0.145633096532
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00369132191113
+7.51199902205

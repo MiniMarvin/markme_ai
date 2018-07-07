@@ -1,0 +1,7 @@
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0111082407647
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00154998708344
+Monte Alegre de Goiás - Goiás - 0.000240329574076 - 0 - 0.876259364505
+Conceição do Tocantins - Tocantins - 8.17756584758e-06 - 0 - 0.0622578145182
+Porto Nacional - Tocantins - 8.17756584758e-06 - 0 - 0.0330663911134
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.015758202015
+4.29771763688

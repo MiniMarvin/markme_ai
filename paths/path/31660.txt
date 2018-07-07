@@ -1,0 +1,7 @@
+Salvador - Bahia - 0.000146741876043 - 0 - 0.00298297947008
+Brejões - Bahia - 0.000146741876043 - 0 - 0.901386208107
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.0280751008949
+Mairiporã - São Paulo - 0.00480840871838 - 0 - 0.00877346902965
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.0540445692227
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00473767327601
+15.1885681715

@@ -1,0 +1,7 @@
+Palmas - Tocantins - 8.17756584758e-06 - 0 - 0.0021216407355
+Porto Nacional - Tocantins - 8.17756584758e-06 - 0 - 0.0417256011315
+Luis Eduardo Magalhães - Bahia - 0.000146741876043 - 0 - 0.927864214993
+Itaberaba - Bahia - 0.000146741876043 - 0 - 0.00742574257426
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.0148514851485
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.00601131541726
+11.5221711033

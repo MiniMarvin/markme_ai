@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.000309429875454
+Pilar - Alagoas - 3.49818094591e-05 - 0 - 0.0163997833991
+Fortaleza dos Nogueiras - Maranhão - 1.95352961914e-05 - 0 - 0.00363580103659
+Vitória do Xingu - Pará - 5.31541780093e-05 - 0 - 0.001701864315
+Careiro da Várzea - Amazonas - 9.08618427509e-07 - 0 - 0.974317320337
+Boa Vista - Roraima - 9.08618427509e-07 - 0 - 0.00363580103659
+34.2212968224

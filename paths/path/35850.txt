@@ -1,0 +1,7 @@
+Porto Velho - Rondônia - 1.81723685502e-06 - 0 - 0.000709807169052
+Vilhena - Rondônia - 1.81723685502e-06 - 0 - 0.00437714420916
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.00307583106589
+Barra do Garças - Mato Grosso - 4.45223029479e-05 - 0 - 0.983792736307
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00656571631373
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00147876493553
+12.5520859314

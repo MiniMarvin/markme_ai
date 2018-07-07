@@ -1,0 +1,6 @@
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.118518518519
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.0148148148148
+Bayeux - Paraíba - 0 - 0 - 0.562962962963
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.0740740740741
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.22962962963
+4.50074060839

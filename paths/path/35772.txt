@@ -1,0 +1,7 @@
+Belém - Pará - 5.31541780093e-05 - 0 - 0.00185356811863
+Imperatriz - Maranhão - 1.95352961914e-05 - 0 - 0.255298115539
+Alvorada - Tocantins - 8.17756584758e-06 - 0 - 0.739326536917
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.000617856039543
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00043249922768
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.00247142415817
+10.146726504

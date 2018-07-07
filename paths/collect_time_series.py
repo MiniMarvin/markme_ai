@@ -114,7 +114,7 @@ for name in lst: # iterate in every entry of the folder
 
 		# list with the shape:
 		# 0 - city
-		# 1.- state
+		# 1 - state
 		# 2 - probability of be stollen
 		# 3 - is stolen or not
 		# 4 - the partial time of the delivery (just is some of the data)
@@ -130,11 +130,15 @@ for name in lst: # iterate in every entry of the folder
 				## 1 - the city where the guy came from
 				## 2 - the state where the guy is going
 				## 3 - the city where the guy is going at all
-				## 4 - the amount of time necessary to the guy get in 
-				## there, normalized by the highest amount in the dataset
-				## 5 - the real amount of time necessary
+				## 4 - the amount of time necessary to the package rech
+				## next place, normalized by the highest amount in 
+				## the dataset
+				## 5 - the real amount of time necessary to reach next
+				## place
 				## 6 - the partial time in the route
 				## 7 - the time of the entire set
+				## 8 - Steal probability
+				## 9 - stolen status
 				## 
 				## Also in this dataset the data will be grouped in
 				## groups of five edges, those edges are the entire
@@ -153,13 +157,14 @@ for name in lst: # iterate in every entry of the folder
 				city_c = city[p[0]]
 				state_c = state[p[1]]
 
-				num = float(p[4].split("\n")[0])
-				tm = float(path[-1][0])
-				time_p = num*tm
-				time_t = time_p/max_time
+				num = float(p[4].split("\n")[0]) ## the fraction of time for package reach next stage
+				tm = float(path[-1][0]) ## the total time to package reach end of route
+				time_p = num*tm ## the time to reach next part of route
+				time_t = time_p/max_time ## the to reach next part of route normalized
+				steal_prob = float(p[2].split("\n")[0])
+				stolen_status = int(p[3].split("\n")[0])
 
-
-				dataset += [[state_p, city_p, state_c, city_c, time_t, time_p, num, tm]]
+				dataset += [[state_p, city_p, state_c, city_c, time_t, time_p, num, tm, steal_prob, stolen_status]]
 				ct += 1
 
 

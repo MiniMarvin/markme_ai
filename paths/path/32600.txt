@@ -1,0 +1,7 @@
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.011448196909
+Cristalina - Goiás - 0.000240329574076 - 0 - 0.0011448196909
+Monte Alegre de Goiás - Goiás - 0.000240329574076 - 0 - 0.0177447052089
+Porto Nacional - Tocantins - 8.17756584758e-06 - 0 - 0.535489410418
+Miracema do Tocantins - Tocantins - 8.17756584758e-06 - 0 - 0.186891814539
+Belém - Pará - 5.31541780093e-05 - 0 - 0.247281053234
+15.1057073799

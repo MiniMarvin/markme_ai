@@ -1,0 +1,6 @@
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.00670588235294
+Prata - Minas Gerais - 0.000267133817688 - 0 - 0.312588235294
+Cordeirópolis - Cordeirópolis - 0 - 0 - 0.420823529412
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.0362352941176
+Osório - Rio Grande do Sul - 0.000519729740535 - 0 - 0.223647058824
+10.5879195359

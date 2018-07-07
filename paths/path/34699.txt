@@ -1,0 +1,7 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00564021373442
+Duque de Caxias - Duque de Caxias - 0 - 0 - 0.00356224025331
+Leopoldina - Minas Gerais - 0.000267133817688 - 0 - 0.193647338215
+Jequié - Bahia - 0.000146741876043 - 0 - 0.779339006531
+Nossa Senhora do Socorro - Sergipe - 4.54309213754e-07 - 0 - 0.00188007124481
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.0159311300218
+12.6381494937

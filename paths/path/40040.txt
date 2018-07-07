@@ -1,0 +1,6 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00776956604131
+Garuva - Santa Catarina - 9.35876980334e-05 - 0 - 0.783873412924
+Osasco - São Paulo - 0.00480840871838 - 0 - 0.0178131514118
+São José dos Campos - São Paulo - 0.00480840871838 - 0 - 0.189691112374
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.000852757248437
+5.46754231538

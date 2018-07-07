@@ -1,0 +1,7 @@
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.000393391030685
+Cacoal - Rondônia - 1.81723685502e-06 - 0 - 0.0456333595594
+Cuiabá - Mato Grosso - 4.45223029479e-05 - 0 - 0.0102281667978
+Campo Verde - Mato Grosso - 4.45223029479e-05 - 0 - 0.852084972463
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0759244689221
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0157356412274
+20.9629907883

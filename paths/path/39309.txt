@@ -1,0 +1,7 @@
+Aracaju - Sergipe - 4.54309213754e-07 - 0 - 0.0822401614531
+Nova Itarana - Bahia - 0.000146741876043 - 0 - 0.0016818028927
+Janaúba - Minas Gerais - 0.000267133817688 - 0 - 0.087790110999
+Patos de Minas - Minas Gerais - 0.000267133817688 - 0 - 0.794315506223
+Campina Verde - Minas Gerais - 0.000267133817688 - 0 - 0.0294315506223
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.00454086781029
+12.6399680874

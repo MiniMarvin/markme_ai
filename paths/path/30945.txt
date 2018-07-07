@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.00412371134021
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.0350515463918
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.517525773196
+Bayeux - Paraíba - 0 - 0 - 0.00309278350515
+Parnamirim - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.419587628866
+Natal - Rio Grande do Norte - 3.58904278866e-05 - 0 - 0.020618556701
+3.2080717915

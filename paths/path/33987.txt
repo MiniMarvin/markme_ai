@@ -1,0 +1,6 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00262172284644
+São José dos Pinhais - Paraná - 0.0 - 0 - 0.0790262172285
+Uberlândia - Minas Gerais - 0.000267133817688 - 0 - 0.838764044944
+São Desidério - Bahia - 0.000146741876043 - 0 - 0.00205992509363
+Brejo do Piauí - Piauí - 2.72585528253e-06 - 0 - 0.0775280898876
+22.7860270436

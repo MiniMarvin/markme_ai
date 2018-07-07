@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.00224089635854
+Marechal Deodoro - Alagoas - 3.49818094591e-05 - 0 - 0.238655462185
+Feira de Santana - Bahia - 0.000146741876043 - 0 - 0.211204481793
+Brumado - Bahia - 0.000146741876043 - 0 - 0.218487394958
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.301960784314
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0274509803922
+9.39901358665

@@ -1,0 +1,7 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0227803738318
+Taciba - São Paulo - 0.00480840871838 - 0 - 0.396028037383
+Londrina - Paraná - 0.0 - 0 - 0.513434579439
+Campo Largo - Paraná - 0.0 - 0 - 0.0391355140187
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.00642523364486
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0221962616822
+6.61316694384

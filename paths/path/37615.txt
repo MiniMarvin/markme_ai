@@ -1,0 +1,7 @@
+Porto Alegre - Rio Grande do Sul - 0.000519729740535 - 0 - 0.00394922425952
+Três Forquilhas - Rio Grande do Sul - 0.000519729740535 - 0 - 0.535966149506
+Campina Grande do Sul - Paraná - 0.0 - 0 - 0.390691114245
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0296191819464
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0279266572638
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.0118476727786
+8.76983759785

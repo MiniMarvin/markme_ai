@@ -1,0 +1,6 @@
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0361216730038
+São João de Meriti - São João de Meriti - 0 - 0 - 0.00380228136882
+Jacareí - São Paulo - 0.00480840871838 - 0 - 0.00887198986058
+Tupaciguara - Minas Gerais - 0.000267133817688 - 0 - 0.878326996198
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.0728770595691
+6.79339773088

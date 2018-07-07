@@ -1,0 +1,7 @@
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.0711920529801
+Brasília - Distrito Federal - 3.72533555279e-05 - 0 - 0.091059602649
+Belo Horizonte - Minas Gerais - 0.000267133817688 - 0 - 0.329470198675
+Ponte Nova - Minas Gerais - 0.000267133817688 - 0 - 0.0413907284768
+Viana - Espírito Santo - 3.22559541766e-05 - 0 - 0.205298013245
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.261589403974
+7.77131795832

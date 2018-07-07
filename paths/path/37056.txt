@@ -1,0 +1,7 @@
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.00447796370493
+Monte Alegre de Minas - Minas Gerais - 0.000267133817688 - 0 - 0.834158221384
+Planura - Minas Gerais - 0.000267133817688 - 0 - 0.000471364600519
+Juquitiba - Juquitiba - 0 - 0 - 0.154450467437
+São José - Santa Catarina - 9.35876980334e-05 - 0 - 0.00345667373714
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00298530913662
+7.73379960445

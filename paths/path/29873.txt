@@ -1,0 +1,6 @@
+Goiânia - Goiás - 0.000240329574076 - 0 - 0.0230117077109
+Aparecida de Goiânia - Goiás - 0.000240329574076 - 0 - 0.0674202664514
+Planura - Minas Gerais - 0.000267133817688 - 0 - 0.4836495761
+São José dos Campos - São Paulo - 0.00480840871838 - 0 - 0.422285022204
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.00363342753331
+5.9082809745

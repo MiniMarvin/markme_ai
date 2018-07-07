@@ -1,0 +1,6 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.0158362302047
+São José dos Pinhais - Paraná - 0.0 - 0 - 0.00617999227501
+Bela Vista do Paraíso - Paraná - 0.0 - 0 - 0.0278099652375
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.892429509463
+Vilhena - Rondônia - 1.81723685502e-06 - 0 - 0.0577443028196
+20.5429080178

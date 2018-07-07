@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.0913043478261
+Curitiba - Paraná - 0.0 - 0 - 0.0565217391304
+São Paulo - São Paulo - 0.00480840871838 - 0 - 0.0217391304348
+Rio de Janeiro - Rio de Janeiro - 0.0048156776658 - 0 - 0.0157608695652
+Campos dos Goytacazes - Rio de Janeiro - 0.0048156776658 - 0 - 0.708695652174
+Vitória - Espírito Santo - 3.22559541766e-05 - 0 - 0.10597826087
+6.56389092661

@@ -1,0 +1,7 @@
+Florianópolis - Santa Catarina - 9.35876980334e-05 - 0 - 0.00334080260746
+Embu das Artes - São Paulo - 0.00480840871838 - 0 - 0.0037889590548
+Betim - Minas Gerais - 0.000267133817688 - 0 - 0.771603177837
+Montes Claros - Minas Gerais - 0.000267133817688 - 0 - 0.00651863923406
+Santo Estêvão - Bahia - 0.000146741876043 - 0 - 0.209329802404
+Recife - Pernambuco - 9.13161519646e-05 - 0 - 0.00541861886331
+17.9198711443

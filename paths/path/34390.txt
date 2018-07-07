@@ -1,0 +1,6 @@
+Campo Grande - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.0058903488899
+Regente Feijó - São Paulo - 0.00480840871838 - 0 - 0.00362483008609
+Alvorada do Sul - Paraná - 0.0 - 0 - 0.126415949252
+Tibagi - Paraná - 0.0 - 0 - 0.831596435584
+Curitiba - Paraná - 0.0 - 0 - 0.0324724361879
+4.80240959299

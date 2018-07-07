@@ -1,0 +1,7 @@
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.000972999270251
+Maceió - Alagoas - 3.49818094591e-05 - 0 - 0.0216492337631
+São Miguel dos Campos - Alagoas - 3.49818094591e-05 - 0 - 0.12673315495
+Lauro de Freitas - Lauro de Freitas - 0 - 0 - 0.809535392848
+Salvador - Bahia - 0.000146741876043 - 0 - 0.0282169788373
+Salvador - Bahia - 0.000146741876043 - 0 - 0.0128922403308
+3.60144404256

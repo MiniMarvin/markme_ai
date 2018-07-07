@@ -1,0 +1,7 @@
+Curitiba - Paraná - 0.0 - 0 - 0.00158227848101
+Bela Vista do Paraíso - Paraná - 0.0 - 0 - 0.0938818565401
+Nova Alvorada do Sul - Mato Grosso do Sul - 1.81723685502e-06 - 0 - 0.554008438819
+Vilhena - Rondônia - 1.81723685502e-06 - 0 - 0.00485232067511
+Manaus - Amazonas - 9.08618427509e-07 - 0 - 0.327215189873
+Boa Vista - Roraima - 9.08618427509e-07 - 0 - 0.0184599156118
+25.9539677419
