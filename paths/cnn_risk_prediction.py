@@ -79,6 +79,7 @@ groupset = []
 for dataFrame in frameSet:
 	total_time, frame = dataFrame
 	lst = frame['state_p'].values
+	steal = max(frame['theft_status'].values)
 	
 	while len(lst) > 5:
 		lst.pop()
@@ -86,7 +87,7 @@ for dataFrame in frameSet:
 	while len(lst) < 5:
 		lst = np.append(lst, -1)
 
-	groupset += [(lst, total_time)]
+	groupset += [(lst, steal)]
 
 
 #########################################################
@@ -101,25 +102,11 @@ from datetime import datetime
 inputShape = groupset[0][0].shape
 
 model = Sequential()
-model.add(Dense(10, activation=None, input_shape=inputShape))
-model.add(Dense(100, activation="relu"))
-model.add(Dropout(0.3))
-model.add(Dense(200, activation="relu"))
-model.add(Dropout(0.3))
-model.add(Dense(200, activation="relu"))
-model.add(Dropout(0.3))
-model.add(Dense(200, activation="relu"))
-model.add(Dropout(0.3))
-model.add(Dense(200, activation="relu"))
-model.add(Dropout(0.3))
-model.add(Dense(200, activation="relu"))
-model.add(Dropout(0.3))
-model.add(Dense(200, activation="relu"))
-model.add(Dropout(0.3))
-model.add(Dense(100, activation="relu"))
-model.add(Dense(1))
+model.add(Dense(100, activation=None, input_shape=inputShape))
+model.add(Dropout(0.4))
+model.add(Dense(1, activation="softplus"))
 # model.compile(loss='binary_crossentropy',optimizer='rmsprop',metrics=['accuracy'])
-model.compile(loss='mean_squared_error',optimizer='rmsprop',metrics=['accuracy'])
+model.compile(loss='poisson',optimizer='sgd',metrics=['accuracy'])
 model.summary()
 
 
@@ -136,7 +123,7 @@ testX, testY = np.array(testX), np.array(testY)
 validateX, validateY = np.array(validateX), np.array(validateY)
 
 epochs = 1000
-batch_size = 400
+batch_size = 1000
 
 # Early stopping callback
 PATIENCE = 40
@@ -150,6 +137,7 @@ tensorboard = TensorBoard(log_dir=log_dir, write_graph=True, write_images=True)
 
 # Place the callbacks in a list
 # callbacks = [early_stopping, tensorboard]
+# callbacks = [tensorboard]
 callbacks = [early_stopping]
 
 # Train the model
@@ -167,16 +155,15 @@ plt.xlabel('epoch')
 plt.legend(['train', 'test'], loc='upper left')
 plt.show()
 
-test_predictions = model.predict(testX)
+train_predictions = model.predict(trainX)
 
-plt.plot(testY)
-plt.plot(test_predictions)
+plt.plot(trainY)
+plt.plot(train_predictions)
 plt.show()
 
 # Report the accuracy
 accuracy = model.evaluate(testX, testY, batch_size=200)
 print("Accuracy: " + str(accuracy))
-
 
 
 

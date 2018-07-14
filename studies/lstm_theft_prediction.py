@@ -60,20 +60,21 @@ url = 'travel_dataset.csv'
 col_names = ['state_p', 'city_p', 'state_c', 'city_c', 'normalized_next_time', 'next_time', 'route_part', 'total_time', 'theft_prob', 'theft_status']
 routes = pd.read_csv(url, header=None, names=col_names)
 
-colors = ['b', 'g', 'r', 'c', 'm', 'y', 'k', 'black']
-r = routes['total_time']
-groups = categorizeGroups(r, 3)
+colors = ['b', 'g', 'r', 'c', 'm', 'y', 'lightcoral', 'black', 'darkorange', 'purple']
+r = routes['theft_prob']
+groups = categorizeGroups(r, 1)
 
-# # dataset view 
-# plt.scatter(routes['total_time'][::40], routes['next_time'][::40])
+# dataset view 
 # for i in range(0, len(groups)):
+# 	lst = np.array(groups[i])
+# 	print(lst.shape)
 # 	it = range(len(groups[i]))
 # 	g = groups[i]
 # 	plt.scatter(it, g, color=colors[i])
 
 # plt.show()
 
-proc = routes[(routes['total_time'].isin(groups[3]))]
+proc = routes[(routes['theft_prob'].isin(groups[1]))]
 # proc = proc['total_time']
 # it = range(len(proc))
 # g = proc
@@ -109,7 +110,7 @@ import matplotlib.pyplot as plt
 from pandas import read_csv
 import math
 from keras.models import Sequential
-from keras.layers import Dense, LSTM, Dropout
+from keras.layers import Dense, LSTM, Dropout, TimeDistributed
 from keras.callbacks import EarlyStopping, TensorBoard
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
@@ -133,39 +134,56 @@ numpy.random.seed(7)
 ## Define the dataset
 #############################################
 # load the dataset
-dataset = proc['normalized_next_time']
+dataset = proc['theft_status']
 dataset = [[a] for a in dataset]
+
+y_dataset = proc['state_p']
+y_dataset = [[a] for a in y_dataset]
 
 # normalize the dataset
 scaler = MinMaxScaler(feature_range=(0, 1))
 dataset = scaler.fit_transform(dataset)
+
+scaler_y = MinMaxScaler(feature_range=(0,1))
+y_dataset = scaler_y.fit_transform(y_dataset)
+
+
+# dataset = numpy.array([[(2*x + 1)/(2*99+1)] for x in range(0, 100)])
+# dataset = numpy.array([[(0.3)*(-1)**x] for x in range(0, 200)])
 
 # split into train and test sets
 train_size = int(len(dataset) * 0.6)
 test_size = int(len(dataset)*0.1)
 valid_size = int(len(dataset)*0.3)
 train, test, valid = dataset[0:train_size,:], dataset[train_size:train_size + test_size,:], dataset[train_size + test_size:,:]
+y_train, y_test, y_valid = y_dataset[0:train_size,:], y_dataset[train_size:train_size + test_size,:], y_dataset[train_size + test_size:,:]
 
 # reshape into X=t and Y=t+1
-time_steps = 5
-look_back = 1
-trainX, trainY = create_dataset(train, look_back)
-testX, testY = create_dataset(test, look_back)
-validX, validY = create_dataset(valid, look_back)
+look_back = 5
+# trainX, trainY = create_dataset(train, look_back)
+# testX, testY = create_dataset(test, look_back)
+# validX, validY = create_dataset(valid, look_back)
+
+trainY, _ = create_dataset(train, 1)
+testY, _ = create_dataset(test, 1)
+validY, _ = create_dataset(valid, 1)
+
+trainX, _ = create_dataset(y_train, look_back)
+testX, _ = create_dataset(y_test, look_back)
+validX, _ = create_dataset(y_valid, look_back)
 
 # reshape input to be [samples, time steps, features]
-trainX = trainX[:len(trainX) - len(trainX)%time_steps]
-testX = testX[:len(testX) - len(testX)%time_steps]
-validX = validX[:len(validX) - len(validX)%time_steps]
+trainX = numpy.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
+testX = numpy.reshape(testX, (testX.shape[0], 1, testX.shape[1]))
+validX = numpy.reshape(validX, (validX.shape[0], 1, validX.shape[1]))
 
-# reshape Y too to make the size properly attached
-trainY = trainY[:len(trainY) - len(trainY)%time_steps:time_steps]
-testY = testY[:len(testY) - len(testY)%time_steps:time_steps]
-validY = validY[:len(validY) - len(validY)%time_steps:time_steps]
+# trainX = numpy.reshape(trainX, (trainX.shape[0], 5, 1))
+# testX = numpy.reshape(testX, (testX.shape[0], 5, 1))
+# validX = numpy.reshape(validX, (validX.shape[0], 5, 1))
+trainY = trainY[abs(len(trainX)-len(trainY)):]
+testY = testY[abs(len(testX)-len(testY)):]
+validY = validY[abs(len(validX)-len(validY)):]
 
-trainX = numpy.reshape(trainX, (trainX.shape[0]//time_steps, time_steps, trainX.shape[1]))
-testX = numpy.reshape(testX, (testX.shape[0]//time_steps, time_steps, testX.shape[1]))
-validX = numpy.reshape(validX, (validX.shape[0]//time_steps, time_steps, validX.shape[1]))
 
 #############################################
 ## Define the model
@@ -173,21 +191,26 @@ validX = numpy.reshape(validX, (validX.shape[0]//time_steps, time_steps, validX.
 # create and fit the LSTM network
 model = Sequential()
 # model.add(LSTM(4, input_shape=(1, look_back), return_sequences=True))
-model.add(LSTM(4, input_shape=(time_steps, look_back), return_sequences=True))
-model.add(LSTM(16, input_shape=(time_steps, look_back), return_sequences=True))
-model.add(LSTM(64, input_shape=(time_steps, look_back), return_sequences=False))
+
+model.add(LSTM(4, input_shape=(1, look_back), return_sequences=True))
+model.add(LSTM(16, return_sequences=True))
+model.add(LSTM(1, return_sequences=False))
 model.add(Dropout(rate=0.3))
-# model.add(Dense(3))
+model.add(Dense(3))
 model.add(Dense(1))
 model.compile(loss='mean_squared_error', optimizer='adam')
 
-model.load_weights("models/model-temporal-series3.h5")
+model.summary()
+print("--------------------------------------")
+print(trainX)
+print("--------------------------------------")
 
 # Early stopping callback
 PATIENCE = 40
 early_stopping = EarlyStopping(monitor='loss', min_delta=0, patience=PATIENCE, verbose=0, mode='auto')
 callbacks = [early_stopping]
 
+print(trainX.shape, trainY.shape)
 history = model.fit(trainX, trainY, epochs=1000, batch_size=5, validation_data=(validX, validY), callbacks=callbacks, verbose=2)
 
 # list all data in history
@@ -207,6 +230,7 @@ trainPredict = model.predict(trainX)
 testPredict = model.predict(testX)
 validPredict = model.predict(validX)
 
+
 ## Normalize the predictions
 # trainPredict = trainPredict/max(trainPredict)
 # testPredict = testPredict/max(testPredict)
@@ -220,41 +244,38 @@ validPredict = scaler.inverse_transform(validPredict)
 validY = scaler.inverse_transform([validY])
 
 # calculate root mean squared error
-trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:,0]))
-print('Train Score: %.2f RMSE' % (trainScore))
-testScore = math.sqrt(mean_squared_error(testY[0], testPredict[:,0]))
-print('Test Score: %.2f RMSE' % (testScore))
-validScore = math.sqrt(mean_squared_error(validY[0], validPredict[:,0]))
-print('valid Score: %.2f RMSE' % (validScore))
+# trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:,0]))
+# print('Train Score: %.2f RMSE' % (trainScore))
+# testScore = math.sqrt(mean_squared_error(testY[0], testPredict[:,0]))
+# print('Test Score: %.2f RMSE' % (testScore))
 
 model_json = model.to_json()
-with open("models/model-temporal-series5.json", "w") as json_file:
+with open("models/model-theft-series.json", "w") as json_file:
     json_file.write(model_json)
 
-model.save_weights("models/model-temporal-series5.h5")
+model.save_weights("models/model-theft-series.h5")
 print("Saved model to disk")
 
 
+
 # shift train predictions for plotting
-trainPredictPlot = numpy.empty_like(dataset)
+trainPredictPlot = numpy.empty_like(dataset_y)
 trainPredictPlot[:, :] = numpy.nan
 trainPredictPlot[look_back:len(trainPredict)+look_back, :] = trainPredict
 
 # shift test predictions for plotting
-testPredictPlot = numpy.empty_like(dataset)
+testPredictPlot = numpy.empty_like(dataset_y)
 testPredictPlot[:, :] = numpy.nan
-testPredictPlot[len(trainPredict)+(look_back*2)+1:len(trainPredict)+len(testPredict)+(look_back*2)+1, :] = testPredict
+testPredictPlot[len(trainPredict)+(look_back*2)+1:len(trainPredict)+len(testPredict), :] = testPredict
 
 # shift valid predictions for plotting
-validPredictPlot = numpy.empty_like(dataset)
+validPredictPlot = numpy.empty_like(dataset_y)
 validPredictPlot[:, :] = numpy.nan
-validPredictPlot[len(trainPredict)+len(testPredict)+(look_back*2)+1:len(trainPredict)+len(testPredict)+len(validPredict)+(look_back*2)+1, :] = validPredict
+validPredictPlot[len(trainPredict)+len(testPredict):, :] = validPredict
 
 # plot baseline and predictions
-plt.plot(scaler.inverse_transform(dataset)[::5,: ])
-# plt.plot(scaler.inverse_transform(dataset))
+plt.plot(scaler.inverse_transform(dataset_y))
 plt.plot(trainPredictPlot)
 plt.plot(testPredictPlot)
-
 plt.plot(validPredictPlot)
 plt.show()

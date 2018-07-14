@@ -60,15 +60,16 @@ url = 'travel_dataset.csv'
 col_names = ['state_p', 'city_p', 'state_c', 'city_c', 'normalized_next_time', 'next_time', 'route_part', 'total_time', 'theft_prob', 'theft_status']
 routes = pd.read_csv(url, header=None, names=col_names)
 
-colors = ['b', 'g', 'r', 'c', 'm', 'y', 'k', 'black']
+colors = ['b', 'g', 'r', 'c', 'm', 'y', 'lightcoral', 'black', 'darkorange', 'purple']
 r = routes['total_time']
 groups = categorizeGroups(r, 3)
 
+import random
 # dataset view 
-plt.scatter(routes['total_time'][::40], routes['next_time'][::40])
+# plt.scatter(routes['total_time'][::40], routes['next_time'][::40])
 for i in range(0, len(groups)):
-	it = range(len(groups[i]))
-	g = groups[i]
+	g = random.sample(groups[i], len(groups[i]))
+	it = range(len(g))
 	plt.scatter(it, g, color=colors[i])
 
 plt.show()
