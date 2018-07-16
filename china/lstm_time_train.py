@@ -176,16 +176,16 @@ print("---------------------------------")
 #############################################
 # create and fit the LSTM network
 model = Sequential()
-model.add(LSTM(4, input_shape=(1, look_back), return_sequences=True))
+# model.add(LSTM(4, input_shape=(1, look_back), return_sequences=True))
 # model.add(LSTM(16, input_shape=(1, look_back), return_sequences=True))
-model.add(LSTM(16, input_shape=(1, look_back), return_sequences=False))
+model.add(LSTM(40, input_shape=(1, look_back), return_sequences=False))
 model.add(Dropout(rate=0.3))
 # model.add(Dense(3))
 model.add(Dense(1))
 model.compile(loss='mean_squared_error', optimizer='rmsprop')
 
 # Early stopping callback
-PATIENCE = 40
+PATIENCE = 100
 early_stopping = EarlyStopping(monitor='loss', min_delta=0, patience=PATIENCE, verbose=0, mode='auto')
 callbacks = [early_stopping]
 
@@ -193,6 +193,7 @@ callbacks = [early_stopping]
 ## UNCOMMENT
 #####################################
 history = model.fit(trainX, trainY, epochs=100, batch_size=5, validation_data=(validX, validY), callbacks=callbacks, verbose=2)
+# history = model.fit(trainX, trainY, epochs=100, batch_size=5, validation_data=(trainX, trainY), callbacks=callbacks, verbose=2)
 
 # list all data in history
 print(history.history.keys())
@@ -210,10 +211,10 @@ model_json = model.to_json()
 with open("models/model-temporal-series1.json", "w") as json_file:
     json_file.write(model_json)
 
-model.save_weights("models/model-temporal-series2.h5")
+model.save_weights("models/model-temporal-series4.h5")
 print("Saved model to disk")
 #####################################
-model.load_weights("models/model-temporal-series2.h5")
+model.load_weights("models/model-temporal-series4.h5")
 
 # make predictions
 trainPredict = model.predict(trainX)
