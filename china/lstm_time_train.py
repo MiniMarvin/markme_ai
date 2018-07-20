@@ -12,25 +12,31 @@ def splitGroups(dataset, depth, maxDepth):
 	A recursive function to split the list in two computing the ones that are next to
 	the border of the set
 	"""
-	group1 = [dataset[0]] # max
-	group2 = [dataset[len(dataset) - 1]] # min
+	group1 = [max(dataset)] # max
+	group2 = [min(dataset)] # min
+	min_at_all = group1[0]
+	max_at_all = group1[0]
 
 	selector = [1, -1]
 
 	## Goes computing the difference between the two groups and join to the list 
 	## where the valueapproaches best
-	for pivot in range(1, len(dataset)//2):
-		for i in range(0, 2):
-			if selector[i] == 1:
-				data = max(dataset[pivot:len(dataset) - pivot])
-			else:
-				data = min(dataset[pivot:len(dataset) - pivot])
-			x1 = abs(max(group1) - data)
-			x2 = abs(min(group2) - data)
-			if x1 < x2:
-				group1.append(data)
-			else:
-				group2.append(data)
+
+	for pivot in range(0, len(dataset)):
+		data = dataset[pivot]
+		x1 = abs(data - min_at_all)
+		x2 = abs(data - max_at_all)
+		if data > max_at_all:
+			max_at_all = data
+			group1.append(data)
+		elif data < min_at_all:
+			min_at_all = data
+			group2.append(data)
+
+		elif x1 > x2:
+			group1.append(data)
+		else:
+			group2.append(data)
 
 	if depth == maxDepth:
 		return [group1, group2]
@@ -62,9 +68,11 @@ routes = pd.read_csv(url, header=None, names=col_names)
 
 colors = ['b', 'g', 'r', 'c', 'm', 'y', 'k', 'black']
 r = routes['total_time']
+# groups = categorizeGroups(r, 3)
+groupNum = 2
 groups = categorizeGroups(r, 3)
 
-proc = routes[(routes['total_time'].isin(groups[3]))]
+proc = routes[(routes['total_time'].isin(groups[groupNum]))]
 
 #############################################
 ## Import all libs
@@ -127,7 +135,7 @@ for dataFrame in frameSet:
 	# print(total_time)
 
 	while len(lst) > 5:
-		lst.pop()
+		lst = lst[:-1]
 
 	while len(lst) < 5:
 		lst = np.append(lst, -1)
@@ -149,6 +157,8 @@ valid_size = int(len(dataset)*0.3)
 # reshape into X=t and Y=t+1
 time_steps = 1
 look_back = 5
+np.random.shuffle(dataset)
+
 datasetX, datesetY = zip(*dataset)
 trainX, trainY = zip(*dataset[:train_size])
 trainX, trainY = np.array(trainX), np.array(trainY)
@@ -162,11 +172,6 @@ trainX = numpy.reshape(trainX, (trainX.shape[0]//time_steps, time_steps, trainX.
 testX = numpy.reshape(testX, (testX.shape[0]//time_steps, time_steps, testX.shape[1]))
 validX = numpy.reshape(validX, (validX.shape[0]//time_steps, time_steps, validX.shape[1]))
 
-# reshape input to be [samples, time steps, features]
-# trainX = numpy.reshape(trainX, (trainX.shape[0], 5, trainX.shape[1]))
-# testX = numpy.reshape(testX, (testX.shape[0], 5, testX.shape[1]))
-# validX = numpy.reshape(validX, (validX.shape[0], 5, validX.shape[1]))
-
 print("---------------------------------")
 print(testX, testY)
 print("---------------------------------")
@@ -176,11 +181,8 @@ print("---------------------------------")
 #############################################
 # create and fit the LSTM network
 model = Sequential()
-# model.add(LSTM(4, input_shape=(1, look_back), return_sequences=True))
-# model.add(LSTM(16, input_shape=(1, look_back), return_sequences=True))
 model.add(LSTM(40, input_shape=(1, look_back), return_sequences=False))
 model.add(Dropout(rate=0.3))
-# model.add(Dense(3))
 model.add(Dense(1))
 model.compile(loss='mean_squared_error', optimizer='rmsprop')
 
@@ -189,11 +191,11 @@ PATIENCE = 100
 early_stopping = EarlyStopping(monitor='loss', min_delta=0, patience=PATIENCE, verbose=0, mode='auto')
 callbacks = [early_stopping]
 
+modelName = "models/model-temporal-series-zone-"+str(groupNum)
 #####################################
 ## UNCOMMENT
 #####################################
 history = model.fit(trainX, trainY, epochs=100, batch_size=5, validation_data=(validX, validY), callbacks=callbacks, verbose=2)
-# history = model.fit(trainX, trainY, epochs=100, batch_size=5, validation_data=(trainX, trainY), callbacks=callbacks, verbose=2)
 
 # list all data in history
 print(history.history.keys())
@@ -208,13 +210,13 @@ plt.legend(['train', 'test'], loc='upper left')
 plt.show()
 
 model_json = model.to_json()
-with open("models/model-temporal-series1.json", "w") as json_file:
+with open(modelName + ".json", "w") as json_file:
     json_file.write(model_json)
 
-model.save_weights("models/model-temporal-series4.h5")
+model.save_weights(modelName+".h5")
 print("Saved model to disk")
 #####################################
-model.load_weights("models/model-temporal-series4.h5")
+model.load_weights(modelName+".h5")
 
 # make predictions
 trainPredict = model.predict(trainX)
@@ -227,18 +229,6 @@ testY = np.array([testY])
 print("predict: ", trainPredict[0])
 print("labels: ", trainY[0])
 print("--------------------------------------")
-
-#####################################
-## UNCOMMENT (ignorável pela 
-## implementação)
-#####################################
-# invert predictions
-# trainPredict = scaler.inverse_transform(trainPredict)
-# trainY = scaler.inverse_transform([trainY])
-# testPredict = scaler.inverse_transform(testPredict)
-# testY = scaler.inverse_transform([testY])
-#####################################
-
 
 #####################################
 ## UNCOMMENT
@@ -267,9 +257,19 @@ validPredictPlot = numpy.zeros((len(dataset), 1))
 validPredictPlot[:, :] = numpy.nan
 validPredictPlot[train_size+test_size:train_size+test_size+valid_size, :] = validPredict
 
+#####################################
+## UNCOMMENT
+#####################################
 # plot baseline and predictions
 plt.plot(datesetY)
 plt.plot(trainPredictPlot)
 plt.plot(testPredictPlot)
 plt.plot(validPredictPlot)
 plt.show()
+#####################################
+
+
+
+
+
+

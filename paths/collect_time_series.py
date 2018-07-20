@@ -118,9 +118,18 @@ for name in lst: # iterate in every entry of the folder
 		# 2 - probability of be stollen
 		# 3 - is stolen or not
 		# 4 - the partial time of the delivery (just is some of the data)
-		path = [point.split(" - ") for point in data]
+		path = [point.split(" - ") for point in data] ## Line by line
 
 		ct = 0 # count to know when is the first element of the iteration
+
+
+		beginState = path[0][1]
+		endState = path[-2][1]
+		beginStateEndState = beginState + "/" + endState
+		entireRoute = ""
+		for p in path[:len(path) - 2]:
+			if len(p) == 5:
+				entireRoute += p[1]+"/"
 
 		for p in path[:len(path) - 2]:
 			if len(p) == 5:
@@ -164,13 +173,15 @@ for name in lst: # iterate in every entry of the folder
 				steal_prob = float(p[2].split("\n")[0])
 				stolen_status = int(p[3].split("\n")[0])
 
-				dataset += [[state_p, city_p, state_c, city_c, time_t, time_p, num, tm, steal_prob, stolen_status]]
+				# dataset += [[state_p, city_p, state_c, city_c, time_t, time_p, num, tm, steal_prob, stolen_status]]
+				dataset += [[state_p, city_p, state_c, city_c, time_t, time_p, num, tm, steal_prob, stolen_status, beginStateEndState, entireRoute]]
 				ct += 1
 
 
 print(dataset[:100])
 
-with open("travel_dataset.csv", "w") as f:
+# with open("travel_dataset.csv", "w") as f:
+with open("travel_dataset_extra.csv", "w") as f:
 	for data in dataset:
 		string = ",".join(str(x) for x in data)
 		f.write(string + "\n")
